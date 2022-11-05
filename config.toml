@@ -1,4 +1,7 @@
 baseURL = 'https://maehl.eu/'
-languageCode = 'en-us'
-title = 'maehld'
+title = 'maehl.eu'
 theme = 'beautifulhugo'
+paginate = 10
+timeZone = 'Europe/Berlin'
+#[permalinks]
+#  posts = '/:year/:month/:title'
