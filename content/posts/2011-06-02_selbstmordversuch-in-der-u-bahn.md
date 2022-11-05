@@ -1,0 +1,8 @@
+---
+title: 'Selbstmordversuch in der U-Bahn'
+date: Thu, 02 Jun 2011 22:08:57 +0000
+draft: false
+tags: ['USA2011', 'Urlaub']
+---
+
+Unser Flieger geht ja erst am späten Abend. Drum haben wir nach dem auschecken die Koffer im Hotel gelassen und sind noch zum Ground Zero getravelled. Beeindruckend was die da schon wieder für ein Gebäude hochziehen. Und wie immer machen die Amis mit allem Geld. Da gabs neben der Memorial-Wall so eine Art Ausstellung zu 9/11. Ich kann dich nicht sagen was es dort zu sehen gab, weil die $10 Eintritt haben wollten. Was wir etwas übertrieben fanden. St. Pauls Kathedrale noch schnell angeschaut und dann ging wieder Uptown per Metro. Das war spannend: der Zug hielt dann mal mitten im Tunnel einfach an. Dann die Durchsage: Person verletzt in einem anderen Zug auf der Strecke. Ok, wir warten. Nächste Durchsage: Dieser Zug out of order. Alle raus. Mh, denken wir ok und wohin? Durch den Tunnel? Ne, der Zug ist noch ein Stückchen vorgefahren und dockte an den nächsten Zug der schon im Bahnhof stand. Also mussten wir durch unseren Zug nach vorn laufen. das Häuschen in dem der Fahrer sitzt war vorne offen. Also mussten wir dadurch auf den andere Zug, wieder nach vorn durch und dann raus in den Bahnhof. Da waren dann alle versammelt. Feuerwehr, Polizei. Spannend. Während wir gefühlte 10 min mit all den andere Passagieren durch die Züge Richtung Ausgang schlichen, kam auch die Durchsage das der Grund für den Ausfall dieser Züge auf diesen Gleisen ein Selbstmordversuch durch Strom war. Da hat sich doch Tatsache einer auf die Schienen geworfen. Jetzt macht auch das Seelsorgetelefon auf der Golden Gate Bridge wieder Sinn.
