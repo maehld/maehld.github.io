@@ -7,4 +7,4 @@ tags: ['USA2011', 'Urlaub']
 
 Gesehen in einem kalifornischen Burger King :)
 
-![-487176354](/urlaub2011-images/487176354-scaled500.jpg?w=179)
+![-487176354](/urlaub11to15-images/11/487176354-scaled500.jpg?w=179)

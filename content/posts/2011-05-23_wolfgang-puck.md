@@ -7,4 +7,4 @@ tags: ['USA2011', 'Urlaub']
 
 Nach dem doch recht anstrengendem Tag in den Universal Studios haben wir Wolfgang Puck seine Pepperoni und die Vier-Käse mit Pesto Pizza verzehrt und die beiden für sehr sehr lecker empfunden.
 
-![-7803655870](/urlaub2011-images/7803655870-scaled10001.jpg?w=300)
+![-7803655870](/urlaub11to15-images/11/7803655870-scaled10001.jpg?w=300)

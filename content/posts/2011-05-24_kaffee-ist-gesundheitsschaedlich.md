@@ -7,4 +7,4 @@ tags: ['USA2011', 'Urlaub']
 
 Gewusst haben wir es ja schon, aber die Kalifornier haben so eine schöne Art, darauf hinzuweisen.
 
-![Imag0086](/urlaub2011-images/imag0086-scaled-1000.jpg?w=179)
+![Imag0086](/urlaub11to15-images/11/imag0086-scaled-1000.jpg?w=179)

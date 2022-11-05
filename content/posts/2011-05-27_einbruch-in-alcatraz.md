@@ -7,4 +7,4 @@ tags: ['USA2011', 'Urlaub']
 
 Die Karten sind bestellt. Morgen Mittag gehts auf zu "The Rock".
 
-![259952135](/urlaub2011-images/259952135-scaled1000.jpg?w=300)
+![259952135](/urlaub11to15-images/11/259952135-scaled1000.jpg?w=300)

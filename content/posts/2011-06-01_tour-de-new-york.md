@@ -11,5 +11,5 @@ Morgen steht eine Bootsfahrt an, sowie am Abend ein Besuch auf dem Rockefeller C
 
 Zu unserem Hotel: Lage ist hervorragend, Zimmer auch Ok, aber: Klimaanlage zu laut und nicht regelbar, also zu kalt. Fenster auf: Nachts schwül, und noch lauter. Also leider nicht die idealen Voraussetzungen. Aber wir werden die zwei Nächte auch noch überstehen ;)
 
-![397556764](/urlaub2011-images/397556764-scaled1000.jpg?w=300)
-![374468739](/urlaub2011-images/374468739-scaled1000.jpg?w=300)
+![397556764](/urlaub11to15-images/11/397556764-scaled1000.jpg?w=300)
+![374468739](/urlaub11to15-images/11/374468739-scaled1000.jpg?w=300)

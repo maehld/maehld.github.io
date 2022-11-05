@@ -5,5 +5,5 @@ draft: false
 tags: ['USA2011', 'Urlaub']
 ---
 
-![-607234084](/urlaub2011-images/607234084-scaled1000.jpg?w=300)
-![-606310563](/urlaub2011-images/606310563-scaled1000.jpg?w=300)
+![-607234084](/urlaub11to15-images/11/607234084-scaled1000.jpg?w=300)
+![-606310563](/urlaub11to15-images/11/606310563-scaled1000.jpg?w=300)

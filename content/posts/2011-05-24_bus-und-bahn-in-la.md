@@ -17,4 +17,4 @@ LA ist übrigens wirklich riesig: Wir sind ungelogen für die Strecke Hollywood 
 
 Ich hoffe, das Foto zeigt, wie lang die großen Straßen sind.
 
-![Imag0088](/urlaub2011-images/imag0088-scaled-1000.jpg?w=179)
+![Imag0088](/urlaub11to15-images/11/imag0088-scaled-1000.jpg?w=179)

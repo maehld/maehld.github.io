@@ -7,4 +7,4 @@ tags: ['USA2011', 'Urlaub']
 
 Pickt hier auch durchaus den Gästen das Essen vom Teller.
 
-![-372659750](/urlaub2011-images/372659750-scaled500.jpg?w=179)
+![-372659750](/urlaub11to15-images/11/372659750-scaled500.jpg?w=179)

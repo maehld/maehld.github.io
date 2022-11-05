@@ -11,4 +11,4 @@ Sportunkundig, wie wir nunmal sind, haben wir uns noch über den hohen Parkplatz
 
 Zusammenfassend lässt sich sagen, das wir hier in SD ruhig ein, zwei Tage mehr hätten verbringen können. Die Stadt hat viel zu bieten und wit haben nur einen Bruchteil davon gesehen. Dagegen hätte in LV ein Tag gereicht. Naja, jetzt geht es morgen früh nochmal kurz nach Downtown San Diego und danach ab auf die Bahn in Richtung Los Angeles.
 
-![-459470724](/urlaub2011-images/459470724-scaled1000.jpg?w=300)
+![-459470724](/urlaub11to15-images/11/459470724-scaled1000.jpg?w=300)

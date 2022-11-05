@@ -7,7 +7,7 @@ tags: ['USA2011', 'Urlaub']
 
 Im IHOP (International House Of Pancakes), Abendessen gab es wie üblich bei McDonalds :)
 
-![-780365591](/urlaub2011-images/780365591-scaled10002.jpg?w=300)
+![-780365591](/urlaub11to15-images/11/780365591-scaled10002.jpg?w=300)
 
 --- 
 

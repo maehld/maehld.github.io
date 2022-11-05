@@ -7,4 +7,4 @@ tags: ['USA2011', 'Urlaub']
 
 Dadurch das wir gestern unsere Zwischenmahlzeit im IHOP zu uns genommen haben, konnten wir heute 20% beim Frühstück sparen. Und jetzt kommt das Beste: weil wir heute dort gefrühstückt haben bekommen wir wieder 20% aufs Essen am nächsten Tag. Also ist das Abendessen für morgen schon klar :)
 
-![-780365589](/urlaub2011-images/780365589-scaled10002.jpg?w=300)
+![-780365589](/urlaub11to15-images/11/780365589-scaled10002.jpg?w=300)

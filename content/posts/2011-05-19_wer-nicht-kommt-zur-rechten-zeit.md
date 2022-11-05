@@ -7,5 +7,5 @@ tags: ['USA2011', 'Urlaub']
 
 ...der wartet. Wir haben den Tip aus dem Netz befolgt, nicht zu den Stoßzeiten zum Buffet zu gehen...die hier nicht ;)
 
-![Imag0046](/urlaub2011-images/imag0046-scaled-1000.jpg?w=300)
-![Imag0047](/urlaub2011-images/imag0047-scaled-1000.jpg?w=300)
+![Imag0046](/urlaub11to15-images/11/imag0046-scaled-1000.jpg?w=300)
+![Imag0047](/urlaub11to15-images/11/imag0047-scaled-1000.jpg?w=300)

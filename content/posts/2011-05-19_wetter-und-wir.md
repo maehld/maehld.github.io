@@ -7,4 +7,4 @@ tags: ['USA2011', 'Urlaub']
 
 Klar, wir fahren ja heute weiter nach San Diego.Da hat sich das Wetter in LV überlegt: Werde ich doch mal spontan super. grml
 
-![-1147916155](/urlaub2011-images/1147916155-scaled10003.jpg?w=300)
+![-1147916155](/urlaub11to15-images/11/1147916155-scaled10003.jpg?w=300)

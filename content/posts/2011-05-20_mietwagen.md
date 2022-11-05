@@ -7,8 +7,8 @@ tags: ['USA2011', 'Urlaub']
 
 Jaaaaha, also dann zum Mietwagen. Wir hatten für die drei Tage eigentlich einen Yaris oder ähnlich. Uns wurde dann aber gesagt, das nen 4-Zylinder ja wohl nicht das beste für den geplanten Trip wäre (Amerikaner halt) und sie einen 6-Zylinder für $20 mehr hätten. Das war dann ein quietschroter Ford Mustang! Wir haben zugeschlagen und das Ergebnis sieht so aus. Scheint allen zu gefallen ;)
 
-![-491793959](/urlaub2011-images/491793959-scaled1000.jpg?w=300)
-![-490870438](/urlaub2011-images/490870438-scaled1000.jpg?w=300)
+![-491793959](/urlaub11to15-images/11/491793959-scaled1000.jpg?w=300)
+![-490870438](/urlaub11to15-images/11/490870438-scaled1000.jpg?w=300)
 
 ---
 

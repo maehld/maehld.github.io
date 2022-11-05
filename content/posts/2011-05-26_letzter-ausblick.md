@@ -7,8 +7,8 @@ tags: ['USA2011', 'Urlaub']
 
 Heute morgen von unserem Hotel in Pismo Beach. Definitiv zu empfehlen.
 
-![254411009](/urlaub2011-images/254411009-scaled1000.jpg?w=300)
-![255334530](/urlaub2011-images/255334530-scaled1000.jpg?w=300)
+![254411009](/urlaub11to15-images/11/254411009-scaled1000.jpg?w=300)
+![255334530](/urlaub11to15-images/11/255334530-scaled1000.jpg?w=300)
 
 ---
 

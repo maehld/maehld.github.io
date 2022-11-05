@@ -7,7 +7,7 @@ tags: ['USA2011', 'Urlaub']
 
 Da sind wir nun gestrandet. Könnt ihr es auf dem Foto erkennen? Jaha, das ist der Pazifik, den wir von unserem Zimmer aus sehen....
 
-![-780365592](/urlaub2011-images/780365592-scaled1000.jpg?w=300)
+![-780365592](/urlaub11to15-images/11/780365592-scaled1000.jpg?w=300)
 
 ---
 

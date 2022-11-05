@@ -15,4 +15,4 @@ Die scharfen Süßigkeiten gibt es in Deutschland. Hier vllt auch, aber ich hab 
 
 Zum Shopping: Wir haben unsere Freibeträge schon vor New York fast aufgebraucht, also hat das mit dem Shoppen wohl geklappt ;)
 
-![372621697](/urlaub2011-images/372621697-scaled1000.jpg?w=300)
+![372621697](/urlaub11to15-images/11/372621697-scaled1000.jpg?w=300)

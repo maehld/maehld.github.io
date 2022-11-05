@@ -7,4 +7,4 @@ tags: ['USA2011', 'Urlaub']
 
 Vorm Apple-Store in LV gibt es eine Schlange.Reingelassen werden nur soviele Kunden, das auch immer ein Berater für sie da ist...krank/cool, aber auf jeden Fall typisch amerikanisch.
 
-![Imag0021](/urlaub2011-images/imag0021-scaled-1000.jpg?w=300)
+![Imag0021](/urlaub11to15-images/11/imag0021-scaled-1000.jpg?w=300)

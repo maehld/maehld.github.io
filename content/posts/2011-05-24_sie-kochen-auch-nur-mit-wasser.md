@@ -7,4 +7,4 @@ tags: ['USA2011', 'Urlaub']
 
 Und nutzen noch Windows XP ;)
 
-![Imag0081](/urlaub2011-images/imag0081-scaled-1000.jpg?w=300)
+![Imag0081](/urlaub11to15-images/11/imag0081-scaled-1000.jpg?w=300)

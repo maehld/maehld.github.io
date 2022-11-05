@@ -7,4 +7,4 @@ tags: ['USA2011', 'Urlaub']
 
 Nicht der Strip übrigens ;)
 
-![-11479161550](/urlaub2011-images/11479161550-scaled1000.jpg?w=300)
+![-11479161550](/urlaub11to15-images/11/11479161550-scaled1000.jpg?w=300)
