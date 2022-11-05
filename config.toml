@@ -1,0 +1,4 @@
+baseURL = 'https://maehl.eu/'
+languageCode = 'en-us'
+title = 'maehld'
+theme = 'beautifulhugo'
