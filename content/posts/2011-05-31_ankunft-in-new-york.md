@@ -3,6 +3,7 @@ title: 'Ankunft in New York'
 date: Tue, 31 May 2011 13:38:38 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Wir sind da und das erste mal geschlafen haben wir auch schon. Zwei Dinge: Erstens ist es hier im Vergleich zu Kalifornien heiß und schwül (28-30 Grad) und zweitens merkt man nen leichten Jet Lag.

@@ -3,6 +3,7 @@ title: 'Tour de New York'
 date: Wed, 01 Jun 2011 03:56:37 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Heute haben wir New York per Stadtrundfahrt erkundet. Wir haben insgesamt drei Touren (alles in einem Paket) gemacht. Manhattan-Downtown und Uptown sowie eine Night-Tour durch Downtown und Brooklyn. Dabei haben wir viel gesehen und auch erfahren. So wurden in New York die Kaufhäuser und auch Schaufenster erfunden. Times Square ist die am meisten besuchte Attraktion der Welt. Macy's an der 35th das größte Kaufhaus der Welt. Und vieles mehr. Die Stadt ist generell eine Stadt der Superlative ;) Leider hat uns beide die Sonne und ihre Intensität auch sehr überrascht, so das sich nun ein Sonnenbrand par excellence andeutet, wir werden es morgen früh sehen.

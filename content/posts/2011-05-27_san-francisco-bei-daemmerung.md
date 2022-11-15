@@ -3,6 +3,7 @@ title: 'San Francisco bei Dämmerung'
 date: Fri, 27 May 2011 05:36:49 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Nur ein paar schlechte Handyfotos. Wir sind nach dem Speisen noch ein wenig herumgelaufen.

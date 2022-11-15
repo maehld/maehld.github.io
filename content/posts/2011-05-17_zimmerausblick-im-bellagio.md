@@ -3,6 +3,7 @@ title: 'Zimmerausblick im Bellagio'
 date: Tue, 17 May 2011 15:47:59 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Nicht der Strip übrigens ;)

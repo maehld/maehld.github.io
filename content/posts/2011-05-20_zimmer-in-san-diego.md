@@ -3,6 +3,7 @@ title: 'Zimmer in San Diego'
 date: Fri, 20 May 2011 04:10:31 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Wir fahren schön mit Offline-Navigation zum Hotel. Aber da, wo das Holiday Inn Express sein soll, ist es nicht. Hat sich einfach umbenannt in Mission Inn. War nicht weiter schlimm, hat uns aber kurz geschockt. Wissen tat das aber weder das Navi, noch der Reiseveranstalter (lt. Voucher). Nur nach Betreten des freien WLAN-Netzes sagte Google mir fast schelmisch: Im Mission Inn einchecken?

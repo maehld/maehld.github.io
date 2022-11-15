@@ -3,6 +3,7 @@ title: 'Prioritäten'
 date: Mon, 16 May 2011 05:58:40 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 ...aber keine Seife mehr. Perfekt.

@@ -1,0 +1,22 @@
+baseURL: "https://blog.maehl.eu"
+languageCode: "en-us"
+timeZone: "Europe/Berlin"
+theme: "beautifulhugo"
+
+title: "Das Mähl-Blog"
+description: "Hauptsächlich Urlaub..."
+
+paginate: 20
+#permalinks:
+#  posts: /:year/:month/:day/:slug/
+
+menu:
+  main:
+    - indentifier: tags
+      name: "Tags"
+      url: "/tags/"
+      weight: 0
+#    - indentifier: categories
+#      name: "Categories"
+#      url: "/categories/"
+#      weight: 1

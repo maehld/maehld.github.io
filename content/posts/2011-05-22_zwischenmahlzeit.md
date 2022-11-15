@@ -3,6 +3,7 @@ title: 'Zwischenmahlzeit'
 date: Sun, 22 May 2011 02:28:31 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Kristin'
 ---
 
 Im IHOP (International House Of Pancakes), Abendessen gab es wie üblich bei McDonalds :)

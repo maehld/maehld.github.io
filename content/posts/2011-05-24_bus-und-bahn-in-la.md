@@ -3,6 +3,7 @@ title: 'Bus und Bahn in LA'
 date: Tue, 24 May 2011 04:17:29 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Die öffentlichen Verkehrsmittel in LA sind ganz in Ordnung, wenn man erstmal nen Durchblick hat ;) Weil erstmal versteht man die Haltestellen nicht: Die schreiben nämlich nicht drauf, wann der nächste Bus kommt, sondern nur, zu welchen Tageszeiten welche Frequenzen gefahren werden. Da steht also z.b. "From 6pm on every 45 to 60 minutes". Ob also der Bus gerade weg ist, oder gleich ankommt, kann man nur anhand der Anzahl der wartenden Gäste an der Haltestelle erahnen. Die eigentlichen Linien und Ihre Ziele haben uns dann zusätzlich verwirrt, bis wir zwei Dinge verstanden haben:

@@ -3,6 +3,7 @@ title: 'Dinnerbuffet im Bellagio'
 date: Thu, 19 May 2011 01:52:02 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Ist überwältigend. Gute Entscheidung, das am letzten Abend nochmal zu machen, gehört ja irgendwie dazu. Jetzt sind wir pappsatt. $ 29.99 p.P. ist aber auch nen Wort.Generell gilt hier: Essen ist entweder teuer oder noch teurer, nur ganz selten preiswert. Und zum Thema Trinkgeld schreibe ich getrennt hiervon nochmal. Jetzt genießt erstmal due Bilder und denkt dran: Wir habens gegessen ;)

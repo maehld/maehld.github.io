@@ -3,6 +3,7 @@ title: 'Gaslamp Quarter'
 date: Sat, 21 May 2011 05:09:11 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Lt. Reiseführer der Mittelpunkt von San Diego. Hier haben wir gegessen und uns ein wenig umgesehen. Das Viertel hat seinen Namen von den alten, unter Denkmalschutz stehenden Gaslaternen die die Straßen beleuchten. Hier reihen sich dann auch Restaurants, Clubs und Geschäfte eng aneinander. Geht man an einem Restaurant vorbei, fragen die Seater (Platzzuweiser) auch gleich, ob man nicht hier sein Dinner zu sich nehmen will.

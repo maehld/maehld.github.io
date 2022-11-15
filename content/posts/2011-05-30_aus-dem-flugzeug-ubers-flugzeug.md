@@ -3,6 +3,7 @@ title: 'Aus dem Flugzeug übers Flugzeug'
 date: Mon, 30 May 2011 22:31:05 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Ha, da das gogoinflight-WLAN wohl auch ohne Erwerb Google Mail durchwinkt, kommt dieser Post aus luftiger Höhe irgendwo zwischen San Francisco und New York.

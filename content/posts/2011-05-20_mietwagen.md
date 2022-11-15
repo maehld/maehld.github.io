@@ -3,6 +3,7 @@ title: 'Mietwagen'
 date: Fri, 20 May 2011 03:40:46 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Jaaaaha, also dann zum Mietwagen. Wir hatten für die drei Tage eigentlich einen Yaris oder ähnlich. Uns wurde dann aber gesagt, das nen 4-Zylinder ja wohl nicht das beste für den geplanten Trip wäre (Amerikaner halt) und sie einen 6-Zylinder für $20 mehr hätten. Das war dann ein quietschroter Ford Mustang! Wir haben zugeschlagen und das Ergebnis sieht so aus. Scheint allen zu gefallen ;)

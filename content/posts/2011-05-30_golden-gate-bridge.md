@@ -3,6 +3,7 @@ title: 'Golden Gate Bridge'
 date: Mon, 30 May 2011 14:52:39 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Ja, das Wetter hat bei unserem Besuch der Golden Gate Bridge gestern mitgespielt. Riesenteil. Leider brauchte der Bus wohl wg. Memorial Day Weekend hin locker ne Stunde. Zurück ging es dann in guten 15 Minuten. Wobei wir auf den Rückbus auch locker ne halbe Stunde gewartet haben, da wir wohl in die "falsche" Richtung wollten.

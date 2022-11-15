@@ -3,6 +3,7 @@ title: 'Chili im Brot'
 date: Mon, 30 May 2011 14:57:27 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Die Einheimischen hier sind ja stolz auf ihr Sourdough-Brot. Bevorzugt verspeisen die in einer ausgehöhlten Variante davon dann ihre Clam Showder. Da Kristin generell, und mir in dem Moment nicht nach Meeresfrüchten war, haben wir das Brot gefüllt mit Chili mitgenommen. Es war sehr lecker. Sowohl das Brot, als auch das Chili. Das Brot ist glaubich auch am nächsten an unserem Graubrot dran. Was wieder zeigt: Auch die Amerikaner haben vom Weißbrot die Schnauze voll :)

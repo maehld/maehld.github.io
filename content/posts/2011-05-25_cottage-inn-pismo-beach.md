@@ -3,6 +3,7 @@ title: 'Cottage Inn, Pismo Beach'
 date: Wed, 25 May 2011 03:17:41 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Kristin'
 ---
 
 Da sind wir nun gestrandet. Könnt ihr es auf dem Foto erkennen? Jaha, das ist der Pazifik, den wir von unserem Zimmer aus sehen....

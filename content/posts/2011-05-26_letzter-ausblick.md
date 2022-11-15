@@ -3,6 +3,7 @@ title: 'Letzter Ausblick'
 date: Thu, 26 May 2011 06:40:25 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Heute morgen von unserem Hotel in Pismo Beach. Definitiv zu empfehlen.

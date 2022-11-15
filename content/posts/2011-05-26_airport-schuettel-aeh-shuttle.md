@@ -3,6 +3,7 @@ title: 'Airport Schüttel, äh Shuttle'
 date: Thu, 26 May 2011 07:02:14 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 In SF haben wir es mal anders gemacht und sind erst mit dem Wagen zum Hotel gefahren um dort einzuchecken. Erst danach und ohne die Koffer haben wir den Wagen zum Flughafen gebracht. Auf Anraten des Concierge sind wir dann nicht mit Bus/Bahn zurück zum Hotel (Taxi ist einfach zu teuer), sondern haben ein Share-A-Ride Shuttle am Airport bestiegen. Diese bringen einen für $16 p.P. von Airport zum Hotel. Taxi liegt bei ca. $50 und ÖPNV bei $10 pro Person.

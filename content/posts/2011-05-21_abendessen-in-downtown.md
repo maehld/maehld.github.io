@@ -3,6 +3,7 @@ title: 'Abendessen in Downtown'
 date: Sat, 21 May 2011 04:37:20 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Kristin'
 ---
 
 Die Pommes waren hier eine Vorspeise. Hätte ich gewusst wie viele es sind, hätte ich kein Hauptgericht (Burger) bestellt.

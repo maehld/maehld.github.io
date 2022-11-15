@@ -3,6 +3,7 @@ title: 'Burger King Werbung'
 date: Fri, 20 May 2011 03:43:16 +0000
 draft: false
 tags: ['USA2011', 'Urlaub']
+author: 'Dominik'
 ---
 
 Gesehen in einem kalifornischen Burger King :)
