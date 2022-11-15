@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Urlaub on maehl.eu</title>
-    <link>https://maehl.eu/tags/urlaub/</link>
-    <description>Recent content in Urlaub on maehl.eu</description>
+    <title>Urlaub on Das Mähl-Blog</title>
+    <link>https://blog.maehl.eu/tags/urlaub/</link>
+    <description>Recent content in Urlaub on Das Mähl-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 11 Nov 2015 18:44:00 -0800</lastBuildDate><atom:link href="https://maehl.eu/tags/urlaub/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2015 18:44:00 -0800</lastBuildDate><atom:link href="https://blog.maehl.eu/tags/urlaub/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zuhause</title>
-      <link>https://maehl.eu/posts/2015-11-11_zuhause/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-11_zuhause/</link>
       <pubDate>Wed, 11 Nov 2015 18:44:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-11_zuhause/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-11_zuhause/</guid>
       <description>Wird sind Zuhause. Nachdem wir gestern um ca. 12:00 mittags gelandet sind, ging es per Bahn über Köln und Hamm nach Hause. Da waren wir dann um 17:30.
 Jetzt fällt das Schlafen schwer, aber das ist ja normal.
 Das Terminal am Frankfurter Flughafen hatte was von Geisterstadt. Da war fast alles dunkel. Streik halt.
@@ -20,10 +21,10 @@ Wir sagen mal Tschüss. Danke fürs Mitlesen.</description>
     
     <item>
       <title>Wir dürfen fliegen</title>
-      <link>https://maehl.eu/posts/2015-11-10_wir-duerfen-fliegen/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-10_wir-duerfen-fliegen/</link>
       <pubDate>Tue, 10 Nov 2015 13:26:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-10_wir-duerfen-fliegen/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-10_wir-duerfen-fliegen/</guid>
       <description>Wir haben mittlerweile unsere Bordkarten und unser Flug scheint auch zu fliegen. Danach ist aber lt. Lufthansa wohl bis Samstag Morgen Schluss.
 Als wir dann am Gate ankamen, stand unser Flugzeug noch nicht da, kein Wunder, es sind ja auch noch fast 4 Stunden gewesen.
 Jetzt eben kam aber was an.
@@ -32,106 +33,106 @@ Scheint, als ob wir heute wirklich nach Hause dürfen. Was macht eigentlich die 
     
     <item>
       <title>Friseur</title>
-      <link>https://maehl.eu/posts/2015-11-09_friseur/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-09_friseur/</link>
       <pubDate>Mon, 09 Nov 2015 19:41:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-09_friseur/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-09_friseur/</guid>
       <description>Heute waren wir in Santa Monica. Eine knappe Stunde Busfahrt und schon waren wir da. Busfahrten kosten hier in L.A. pauschal immer $1 für eine Fahrt egal wohin ohne umsteigen. Wenn ich überlege, dass mich eine Fahrt zur Arbeit €7 und mehr kostet, ist das echt OK.
 Dafür sind andere Dinge hier, also vor allem in Santa Monica sauteuer. Wir hatten heute Pizza und Spaghetti Carbonara mit einem kleinen Appetizer für $65.</description>
     </item>
     
     <item>
       <title>Lufthansa</title>
-      <link>https://maehl.eu/posts/2015-11-09_lufthansa/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-09_lufthansa/</link>
       <pubDate>Mon, 09 Nov 2015 19:36:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-09_lufthansa/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-09_lufthansa/</guid>
       <description>Der Streik scheint hier angekommen zu sein. Zumindest sind die Flüge nach Hause von Sonntag und heute schon mal annulliert worden. Unser scheint bisher noch zu fliegen, aber so ganz trauen wir der Sache noch nicht.
 Naja, wir haben es ja nicht weit zum Flughafen und ein paar Tage haben wir ja noch. Mal sehen. Mehr wissen wir in so ca. 10-15 Stunden.</description>
     </item>
     
     <item>
       <title>Toiletten</title>
-      <link>https://maehl.eu/posts/2015-11-07_toiletten/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-07_toiletten/</link>
       <pubDate>Sat, 07 Nov 2015 09:19:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-07_toiletten/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-07_toiletten/</guid>
       <description>Das muss ich eben noch loswerden: wir Frauen hatten mal keine Schlange vor den Toiletten, herrlich ;) Aber ganz ehrlich, das wussten wir doch auch schon vorher. Es spielen halt mehr Herren PC-Spiele als Damen, oder vielleicht waren die alle nicht hier anwesend. Keine Ahnung. Wobei die Frauen sich dann besser verkleiden können. Hallo? Der Lich King war eine Frau, TOP!!!</description>
     </item>
     
     <item>
       <title>Erster Tag BlizzCon</title>
-      <link>https://maehl.eu/posts/2015-11-07_erster-tag-blizzcon/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-07_erster-tag-blizzcon/</link>
       <pubDate>Sat, 07 Nov 2015 09:11:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-07_erster-tag-blizzcon/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-07_erster-tag-blizzcon/</guid>
       <description>Um neun erst schön frühstücken im Hotel. Kann man nicht meckern. Hier gibt es sogar Toastbrot mit Erdbeermarmelade :) Danach einfach dem Strom folgen: entweder den Mickey-Maus-Ohren Richtung Disneyland oder den Goodie Bags Richtung Convention Center. Wir haben uns natürlich für das Center entschieden.
 Hier war die Hölle los. Es begann um 11 Uhr. Wir waren eine gute halbe Stunde vorher da. Aber keine Chance mehr auf einen Platz in der Main Hall.</description>
     </item>
     
     <item>
       <title>Anaheim</title>
-      <link>https://maehl.eu/posts/2015-11-05_anaheim/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-05_anaheim/</link>
       <pubDate>Thu, 05 Nov 2015 22:25:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-05_anaheim/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-05_anaheim/</guid>
       <description>Nach gut vierstündiger Fahrt sind wir heute nachmittag in Anaheim angekommen. Disneyland lassen wir aber links liegen. Wir gehen ab Morgen auf die BlizzCon.
 Nach der Registrierung haben wir uns für den Store angestellt. 60 Kassen warten hier darauf, bestürmt zu werden. Wir standen gute 3 1/2 Stunden an.</description>
     </item>
     
     <item>
       <title>Cottage Inn by the Sea</title>
-      <link>https://maehl.eu/posts/2015-11-04_cottage-inn-by-the-sea/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-04_cottage-inn-by-the-sea/</link>
       <pubDate>Wed, 04 Nov 2015 21:43:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-04_cottage-inn-by-the-sea/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-04_cottage-inn-by-the-sea/</guid>
       <description>Das gleiche Motel wie vor viereinhalb Jahren. Immer noch wunderschön mit Blick zum Meer (leider war es schon dunkel, als wir ankamen).
 Der Gaskamin tut sein übriges damit man sich hier wohlfühlt. Jetzt bereuen wir schon, hier nur eine Nacht zu sein, aber wir müssen ja aus terminlichen Gründen morgen an unserem Zielort ankommen.</description>
     </item>
     
     <item>
       <title>Route 1</title>
-      <link>https://maehl.eu/posts/2015-11-04_route-1/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-04_route-1/</link>
       <pubDate>Wed, 04 Nov 2015 21:40:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-04_route-1/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-04_route-1/</guid>
       <description>Die Route 1 ist ein Traum. Gerade in der Gegend Big Sur muss man echt mit sich ringen, nicht alle hundert Meter anzuhalten und die Aussicht zu genießen.
 Gegen Ende sind wir dann noch an einem Landeplatz für See-Elephanten vorbeigekommen&amp;hellip;roch etwas streng, sieht aber beeindruckend aus. Das bekommt eindeutig unser &amp;ldquo;Seal of Approval&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Monterey Bay Aquarium</title>
-      <link>https://maehl.eu/posts/2015-11-04_monterey-bay-aquarium/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-04_monterey-bay-aquarium/</link>
       <pubDate>Wed, 04 Nov 2015 21:35:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-04_monterey-bay-aquarium/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-04_monterey-bay-aquarium/</guid>
       <description>Vor der Fahrt nach Pismo wollten wir uns noch das Monterey Bay Aquarium ansehen. Wir wussten die Fahrt heute wird nicht allzu lang dauern, drum hatten wir noch etwas Zeit für diesen Zwischenstopp. Die nahmen zwar $40 Eintritt pro Person aber das war es uns wert. Sie haben dort eine Auffangstation für Otter. Wir haben uns im Auditorium die Geschichte der Otterdame &amp;ldquo;Luna&amp;rdquo; angesehen. Sie wurde als Baby am Strand gefunden, im Aquarium aufgezogen und wieder erfolgreich ausgewildert.</description>
     </item>
     
     <item>
       <title>Carmel</title>
-      <link>https://maehl.eu/posts/2015-11-04_carmel/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-04_carmel/</link>
       <pubDate>Wed, 04 Nov 2015 19:41:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-04_carmel/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-04_carmel/</guid>
       <description>Ist total schön hier. Sehr schönes Wetter. Toller Strand und irgendwie &amp;ldquo;unberührt&amp;rdquo;. Hier ist nichts hektisch, oder anstrengend. Und anscheinend geht man hier mit der Sonne ins Bett oder man hat ne Taschenlampe. Es gibt hier nämlich keine Straßenbeleuchtung. Auch keine Hausnummern, aber das ist uns im Gegensatz zur Post egal. Die Post nutzt hier geographische Adressen, also z.B. Ocean St. Ecke Lincoln 4S. Also das vierte Haus Richtung Süden von der genannten Straßenkreuzung.</description>
     </item>
     
     <item>
       <title>Wir haben zum Frühstück einen Korb bekommen...</title>
-      <link>https://maehl.eu/posts/2015-11-04_wir-haben-einen-korb-bekommen/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-04_wir-haben-einen-korb-bekommen/</link>
       <pubDate>Wed, 04 Nov 2015 10:48:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-04_wir-haben-einen-korb-bekommen/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-04_wir-haben-einen-korb-bekommen/</guid>
       <description>Heute morgen gegen 8 Uhr wurde uns ein Korb vor die Tür gestellt. In dem war unser Frühstück und eine Zeitung. Wir haben es uns auf dem Balkon gemütlich gemacht und den Korb geplündert.</description>
     </item>
     
     <item>
       <title>Auf der Straße nach Süden</title>
-      <link>https://maehl.eu/posts/2015-11-03_auf-der-strasse-nach-sueden/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-03_auf-der-strasse-nach-sueden/</link>
       <pubDate>Tue, 03 Nov 2015 15:42:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-03_auf-der-strasse-nach-sueden/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-03_auf-der-strasse-nach-sueden/</guid>
       <description>Heute Morgen haben wir unser Auto für die nächsten drei Tage abgeholt.
 Es ist ein Dodge Journey geworden.
 Damit ging es die Route 1 bis Carmel herunter.
@@ -140,10 +141,10 @@ In Carmel haben wir unser Motel bezogen und gucken uns jetzt den Ort an bevor es
     
     <item>
       <title>Sushi, Zweiter Teil</title>
-      <link>https://maehl.eu/posts/2015-11-03_sushi-zweiter-teil/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-03_sushi-zweiter-teil/</link>
       <pubDate>Tue, 03 Nov 2015 15:25:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-03_sushi-zweiter-teil/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-03_sushi-zweiter-teil/</guid>
       <description>Abends haben wir dann noch Seattle und SF verglichen, also im Bezug auf Sushi.
 Das Resultat: Seattle gewinnt knapp. ICHI Sushi war aber auch super.
 Und auch hier bekam man am Ende den Krabbenkopf frittiert.
@@ -152,10 +153,10 @@ Ich bin mir nach dem Verzehr nicht sicher, ob Kristin das mutig oder einfach nur
     
     <item>
       <title>Golden Gate Bridge</title>
-      <link>https://maehl.eu/posts/2015-11-03_golden-gate-bridge/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-03_golden-gate-bridge/</link>
       <pubDate>Tue, 03 Nov 2015 15:10:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-03_golden-gate-bridge/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-03_golden-gate-bridge/</guid>
       <description>Wir haben gestern am letzten vollen Tag in SF die Golden Gate Bridge besucht.
 Dabei haben wir sie natürlich auch einmal Zu Fuß überquert. Gute 3km sind es. Dabei konstanter Wind. Schöne Sache.
 Das Wetter hat aber sonst wieder sehr gut mitgespielt, wie man auf den Fotos ja auch sehen kann :)</description>
@@ -163,10 +164,10 @@ Das Wetter hat aber sonst wieder sehr gut mitgespielt, wie man auf den Fotos ja 
     
     <item>
       <title>SF im Dunkeln</title>
-      <link>https://maehl.eu/posts/2015-11-02_sf-im-dunkeln/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-02_sf-im-dunkeln/</link>
       <pubDate>Mon, 02 Nov 2015 07:35:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-02_sf-im-dunkeln/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-02_sf-im-dunkeln/</guid>
       <description>In unserer Bus Tour war noch eine Nachttour enthalten. Dick eingepackt sind einer hier mit einem wirklich guten Guide quer durch SF gefahren.
 Die Fotos sind dann leider nicht mehr besonders, aber irgendwo hört dann eine Smartphone-Kamera doch auf.
 Das letzte Bild haben wir von Treasure Island gemacht. Sehr schöner Aussichtspunkt zwischen SF und Oakland.</description>
@@ -174,67 +175,67 @@ Das letzte Bild haben wir von Treasure Island gemacht. Sehr schöner Aussichtspu
     
     <item>
       <title>Cable Car</title>
-      <link>https://maehl.eu/posts/2015-11-02_cable-car/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-02_cable-car/</link>
       <pubDate>Mon, 02 Nov 2015 07:26:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-02_cable-car/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-02_cable-car/</guid>
       <description>Cable Car musste natürlich auch sein. Eine Fahrt kostet $7. Da hat sich der 3-Day-Pass für $26 schnell bezahlt gemacht. Gut, Busse kosten hier nur $2.25, aber die machen auch nicht soviel Spaß.
 Geheimtipp soll übrigens die California Line sein. Die hat die höchsten Berge und ist die erste Linie, die gebaut wurde. Aber kein Tourist fährt sie. Mal sehen, ob wir das ändern können.</description>
     </item>
     
     <item>
       <title>City Tour</title>
-      <link>https://maehl.eu/posts/2015-11-02_city-tour/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-02_city-tour/</link>
       <pubDate>Mon, 02 Nov 2015 07:19:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-02_city-tour/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-02_city-tour/</guid>
       <description>Für den Tag haben wir uns eine Busfahrt gegönnt. Übel war der Unterschied zwischen Stadt und Golden Gate Bridge vom Wetter her. Schön warm und ein wenig Wind wurde zu &amp;ldquo;Wo ist mein Schal, und wo ist hier überhaupt noch was außer Nebel&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Das gute deutsche Bier</title>
-      <link>https://maehl.eu/posts/2015-11-02_das-gute-deutsche-bier/</link>
+      <link>https://blog.maehl.eu/posts/2015-11-02_das-gute-deutsche-bier/</link>
       <pubDate>Mon, 02 Nov 2015 07:12:00 -0800</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-11-02_das-gute-deutsche-bier/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-11-02_das-gute-deutsche-bier/</guid>
       <description>Etwas verwundert waren wir bei den Bierdeckeln. Da das ein organic (in DE würde man Bio sagen) Restaurant war, scheint unser Bier hier ein hohes Ansehen zu genießen.
 Ob die Bierdeckel wohl auch importiert werden?</description>
     </item>
     
     <item>
       <title>Friendly Reminder</title>
-      <link>https://maehl.eu/posts/2015-10-31_friendly-reminder/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-31_friendly-reminder/</link>
       <pubDate>Sat, 31 Oct 2015 19:25:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-31_friendly-reminder/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-31_friendly-reminder/</guid>
       <description>Alles wir wieder zurück aufs Zimmer kamen lag dieser freundliche Hinweis unter der Tür. Wir sind damit ab Morgen wieder 9 Stunden von der deutschen Zeit entfernt.
 Achja, heute wird hier Halloween gefeiert. Geht aber alles sehr human zu.</description>
     </item>
     
     <item>
       <title>Fisherman&#39;s Wharf und so</title>
-      <link>https://maehl.eu/posts/2015-10-31_fishermans-wharf-und-so/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-31_fishermans-wharf-und-so/</link>
       <pubDate>Sat, 31 Oct 2015 19:23:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-31_fishermans-wharf-und-so/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-31_fishermans-wharf-und-so/</guid>
       <description>Heute waren wir etwas groggy durch Schlafwagen und so also nur ein wenig herumgelaufen, ein paar Souvenirs eingekauft und dann so gegen sieben auf das Zimmer.</description>
     </item>
     
     <item>
       <title>Hotel Zephyr</title>
-      <link>https://maehl.eu/posts/2015-10-31_hotel-zephyr/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-31_hotel-zephyr/</link>
       <pubDate>Sat, 31 Oct 2015 19:12:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-31_hotel-zephyr/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-31_hotel-zephyr/</guid>
       <description>Unser Hotelzimmer bis Dienstag.</description>
     </item>
     
     <item>
       <title>Ankunft in Oakland</title>
-      <link>https://maehl.eu/posts/2015-10-31_ankunft-in-oakland/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-31_ankunft-in-oakland/</link>
       <pubDate>Sat, 31 Oct 2015 19:10:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-31_ankunft-in-oakland/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-31_ankunft-in-oakland/</guid>
       <description>Nach dem Aufstehen und Frühstück kamen wir um 8:30 in Oakland an. Hier hat uns erst mal das schöne Wetter überrascht.
 Von hier sind wir mit der Fähre zum Pier 41 in San Francisco gefahren, wo unser Hotel für die nächsten 3 Tage auf uns wartete.
 Achso. Natürlich haben wir die 9:00 Fähre knapp verpasst und konnten dann bis 10:45 am Fährhafen warten. :)</description>
@@ -242,10 +243,10 @@ Achso. Natürlich haben wir die 9:00 Fähre knapp verpasst und konnten dann bis 
     
     <item>
       <title>...eine Zugfahrt die ist schön</title>
-      <link>https://maehl.eu/posts/2015-10-31_eine-zugfahrt-die-ist-schoen/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-31_eine-zugfahrt-die-ist-schoen/</link>
       <pubDate>Sat, 31 Oct 2015 19:05:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-31_eine-zugfahrt-die-ist-schoen/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-31_eine-zugfahrt-die-ist-schoen/</guid>
       <description>Nach dem Mittagessen ging es dann langsam in Richtung Niemandsland, also nur noch Wälder, Seen und Berge.
 Nach einem guten Abendessen wurden dann von unserer Sleeper Attendant die Betten vorbereitet.
 Um es kurz zu fassen. Unten schläft es sich ganz gut, aber oben ist es etwas zu eng.
@@ -254,10 +255,10 @@ An den Auffanggurt wurde oben aber gedacht.</description>
     
     <item>
       <title>Eine Zugfahrt, die ist lustig...</title>
-      <link>https://maehl.eu/posts/2015-10-31_eine-zugfahrt-die-ist-lustig/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-31_eine-zugfahrt-die-ist-lustig/</link>
       <pubDate>Sat, 31 Oct 2015 17:03:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-31_eine-zugfahrt-die-ist-lustig/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-31_eine-zugfahrt-die-ist-lustig/</guid>
       <description>Am Freitag Morgen ging es als erstes mit dem Bis zur King Street Station. Dort gaben wir unser Gepäck auf und stiegen in das Schlafwagenabteil des Coast Starlight, der uns bis Oakland fahren wird.
 Die Kabine (Roomette) war dann wirklich niedlich aber absolut ausreichend für zwei Personen mit Handgepäck.
 Mittagessen wurde dann im Parlour Car eingenommen. War gemütlich und auch lecker.</description>
@@ -265,10 +266,10 @@ Mittagessen wurde dann im Parlour Car eingenommen. War gemütlich und auch lecke
     
     <item>
       <title>Kleinkram am Ende</title>
-      <link>https://maehl.eu/posts/2015-10-29_kleinkram-am-ende/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-29_kleinkram-am-ende/</link>
       <pubDate>Thu, 29 Oct 2015 20:44:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-29_kleinkram-am-ende/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-29_kleinkram-am-ende/</guid>
       <description>Zum Abschluss haben wir noch einmal den Public Market aufgesucht. Dort gab es dann Mac and Cheese bei Beechers mit frisch vor Ort hergestelltem Käse.
 Danach haben wir uns noch ein paar Geschäfte in der Nähe angesehen und ein wenig Verpflegung für den morgigen Tag eingekauft.
 Morgen werdet ihr dann vermutlich nicht viel von uns lesen, da wir ab Morgen früh für 23 Stunden kein Internet haben werden. Mehr darüber wenn wir wieder unter Menschen (und WiFi Antennen) sind.</description>
@@ -276,10 +277,10 @@ Morgen werdet ihr dann vermutlich nicht viel von uns lesen, da wir ab Morgen fr�
     
     <item>
       <title>Pacific Science Center</title>
-      <link>https://maehl.eu/posts/2015-10-29_pacific-science-center/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-29_pacific-science-center/</link>
       <pubDate>Thu, 29 Oct 2015 20:38:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-29_pacific-science-center/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-29_pacific-science-center/</guid>
       <description>Zweiter Stopp war das Pacific Science Center. Hier wird anhand von vielen Ausstellungen zum Anfassen Wissenschaft verständlich gemacht. Leider waren wir so beschäftigt mit den ganzen Sachen, dass wir die Fotos vergessen haben.
 Besonders erwähnenswert sind aber das IMAX Kino und eine Ausstellung von lebenden Schmetterlingen.
 Kann man nur empfehlen, wenn auch der Fokus mehr auf Kinder und Jugendliche gelegt wurde.</description>
@@ -287,10 +288,10 @@ Kann man nur empfehlen, wenn auch der Fokus mehr auf Kinder und Jugendliche gele
     
     <item>
       <title>EMP Museum</title>
-      <link>https://maehl.eu/posts/2015-10-29_emp-museum/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-29_emp-museum/</link>
       <pubDate>Thu, 29 Oct 2015 20:31:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-29_emp-museum/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-29_emp-museum/</guid>
       <description>Das EMP-Museum war unser erstes Ziel für den letzten Tag in Seattle. Das Museum hat Ausstellungen zu den Themen Musik, Sci-Fi und mehr.
 Besonders gefallen hat uns das Sound Lab in dem man Instrumente wie E-Gitarre und Schlagzeug ausprobieren und lernen konnte.
 Wenn wir Nirvana Fans wären, hätte uns die Ausstellung zu dem Thema sicher auch gut gefallen.
@@ -299,30 +300,30 @@ Auch gut war eine Ausstellung zum Thema Indie Games (Computerspiele von unabhän
     
     <item>
       <title>Deception Pass State Park</title>
-      <link>https://maehl.eu/posts/2015-10-29_deception-pass-state-park/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-29_deception-pass-state-park/</link>
       <pubDate>Thu, 29 Oct 2015 09:03:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-29_deception-pass-state-park/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-29_deception-pass-state-park/</guid>
       <description>Die Autofahrt ging anschließend weiter Richtung Norden auf dem Highway 525 und der wurde dann zum Highway 20. War echt schön hier. Super ruhig zu fahren und hübsch anzusehen. So eine richtige Twilight-Atmosphäre mit ner Menge Nadelbäumen und Regen.
 Am Deception Pass State Park angekommen, hörte es dann auch auf zu regnen, ihr wisst ja: wenn Engel reisen&amp;hellip; Wir haben, trotz geschlossenem Schalter, pflichtbewusst unseren Eintritt gezahlt unser Auto geparkt und sind runter zum &amp;ldquo;Strand&amp;rdquo; gelaufen.</description>
     </item>
     
     <item>
       <title>Whidbey Island</title>
-      <link>https://maehl.eu/posts/2015-10-29_whidbey-island/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-29_whidbey-island/</link>
       <pubDate>Thu, 29 Oct 2015 08:24:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-29_whidbey-island/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-29_whidbey-island/</guid>
       <description>Den Rest des Nachmittags sind wir mit dem Auto noch per Fähre nach Whidbey Island und von dort hoch zum Deception Pass.
 In Clinton gab es auf Empfehlung ein Sandwich bei Pickles Deli. Sehr gut :)</description>
     </item>
     
     <item>
       <title>Boeing</title>
-      <link>https://maehl.eu/posts/2015-10-29_boeing/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-29_boeing/</link>
       <pubDate>Thu, 29 Oct 2015 08:20:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-29_boeing/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-29_boeing/</guid>
       <description>Auf der Boeing-Werkstour durften leider keine Bilder gemacht werden. Daher hier nur ein paar Daten. Boeing hat 170.000 Mitarbeiter. Davon arbeiten knapp über 40.000 in Everett. Die Produktionshalle ist das größte Gebäude der Welt nach Volumen. Hier werden die 747, 777 und 787 gebaut.
 Am Ende wurde uns noch folgender Satz mitgegeben:
 &amp;ldquo;If it&amp;rsquo;s not Boeing, I&amp;rsquo;m not going&amp;rdquo;
@@ -331,38 +332,38 @@ Nach der Tour haben wir dann noch ein paar Bilder vom Aussichtsdeck gemacht.</de
     
     <item>
       <title>Mietwagen</title>
-      <link>https://maehl.eu/posts/2015-10-29_mietwagen/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-29_mietwagen/</link>
       <pubDate>Thu, 29 Oct 2015 08:15:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-29_mietwagen/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-29_mietwagen/</guid>
       <description>Der Mittwoch begann damit, unseren Mietwagen abzuholen. Es wurde ein weißer Ford Focus. Schönes Auto.</description>
     </item>
     
     <item>
       <title>Pike Place Market</title>
-      <link>https://maehl.eu/posts/2015-10-28_pike-place-market/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-28_pike-place-market/</link>
       <pubDate>Wed, 28 Oct 2015 06:53:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-28_pike-place-market/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-28_pike-place-market/</guid>
       <description>Nach einen weiteren Anstieg von gefühlt 50% Steigung (für Faule gibt es eine Aufzug, aber das Omelett musste ja weg) waren wir im/auf dem Pike Place Market. Ein weltbekannter Markt auf dem man alles direkt von den Erzeugern kaufen kann.
 Hier gibt es fast alles. Von Fisch hin zu Blumen. Hier gibt es auch den ersten Starbucks und wohl die besten Mac and Cheese. Das liegt daran, dass die den Käse mal eben frisch nebenan selbst machen.</description>
     </item>
     
     <item>
       <title>Seattle Aquarium</title>
-      <link>https://maehl.eu/posts/2015-10-28_seattle-aquarium/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-28_seattle-aquarium/</link>
       <pubDate>Wed, 28 Oct 2015 06:50:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-28_seattle-aquarium/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-28_seattle-aquarium/</guid>
       <description>Nach der Hafenrundfahrt ging es ab ins Seattle Aquarium. Es war direkt ein Pier weiter. Hier gibt es keine Shows oder dressierten Tiere. Es ist mehr eine Art Auffangstation. Selbst die Korallen sind nicht der Natur entrissen sondern zum Teil von Dieben beschlagnahmt worden. Die Robben und Seelöwen hier leben zum Teil schon 30 Jahre hier. Einer war auf einem Auge blind und hätte in der Wildnis nicht überlebt. Sie sehen sehr zufrieden aus.</description>
     </item>
     
     <item>
       <title>Hafenrundfahrt</title>
-      <link>https://maehl.eu/posts/2015-10-28_hafenrundfahrt/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-28_hafenrundfahrt/</link>
       <pubDate>Wed, 28 Oct 2015 06:35:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-28_hafenrundfahrt/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-28_hafenrundfahrt/</guid>
       <description>Nach ein paar negativen Höhenmetern waren wir am Hafen. Von dort startet unsere 1-stündige Hafenrundfahrt.
 Als nächstes der Seattle Beach. Bei der Aussage mussten alle lachen. Das Wasser hat hier fast durchgehend 8°C.
 Danach haben wir ein wenig über den Puget Sound (dt. Sund) erfahren. Wir sind hier nämlich nicht am Pazifik sondern knapp 100 Meilen davon entfernt. Der Sund ist ein wichtiger Lebensraum für Lachse und Orcas.
@@ -371,168 +372,168 @@ Entgegen der weitläufigen Annahme der Besucher Seattles exportiert Seattle kein
     
     <item>
       <title>Space Needle</title>
-      <link>https://maehl.eu/posts/2015-10-28_space-needle/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-28_space-needle/</link>
       <pubDate>Wed, 28 Oct 2015 06:16:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-28_space-needle/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-28_space-needle/</guid>
       <description>Nach dem Frühstück ging es dann zur Space Needle. Das Wetter war für Seattles Verhältnisse super. Da haben wir laut Fahrstuhl-Operator richtig Glück gehabt.</description>
     </item>
     
     <item>
       <title>Frühstück</title>
-      <link>https://maehl.eu/posts/2015-10-28_fruehstueck/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-28_fruehstueck/</link>
       <pubDate>Wed, 28 Oct 2015 05:32:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-28_fruehstueck/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-28_fruehstueck/</guid>
       <description>Es ist zwar schon Mittwoch, aber ich war gestern zu müde zum Schreiben. Drum kommen die gestrigen Eindrücke erst heute.
 Der Tag begann so harmlos: um 6 Uhr aufgestanden, fertig gemacht, Busroute rausgesucht und ab zum Ihop :) ich hab mich riesig gefreut. Das Frühstück war wie immer der Hammer. Omlette mit Brokkoli und Tomate dazu drei Pancakes mit Erdbeersirup. Mhhhhh. Wir waren den ganzen Tag pappsatt. Mittagessen fiel aus. Und um den schon, so früh am Morgen, zu sich genommenen täglichen Kalorienbedarf eines Erwachsenen wieder abzutrainieren, dachten wir uns: ab jetzt keine Busfahrt mehr!</description>
     </item>
     
     <item>
       <title>Seattle sagt Guten Morgen</title>
-      <link>https://maehl.eu/posts/2015-10-27_seattle-sagt-guten-morgen/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-27_seattle-sagt-guten-morgen/</link>
       <pubDate>Tue, 27 Oct 2015 07:30:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-27_seattle-sagt-guten-morgen/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-27_seattle-sagt-guten-morgen/</guid>
       <description>Wir machen uns gerade fertig für die Frühstückssuche. Jet Lag scheint gut überstanden zu sein. Gestern gegen 20:30 ins Bett und heute seit 6:00 wach.</description>
     </item>
     
     <item>
       <title>Abendessen</title>
-      <link>https://maehl.eu/posts/2015-10-27_abendessen/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-27_abendessen/</link>
       <pubDate>Tue, 27 Oct 2015 06:41:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-27_abendessen/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-27_abendessen/</guid>
       <description>Ich hatte ja schon vor der Seattle-Reise Ausschau nach Sushi Restaurants gehalten. Dabei ist mir Shiro&amp;rsquo;s Sushi aufgefallen. Idee war, da heute abend mal vorbeizuschauen und evtl. einen Tisch für einen der folgenden Tage reserviert zu bekommen.
 Leider wurde da nichts draus. Wir waren nämlich so pünktlich da das wir auch ohne Reservierung einen Tisch bekommen haben, und zwar sofort. Hunger war vorhanden, aber Kristin hatte ob der etwas mageren Auswahl von Nicht-Fisch etwas Bedenken.</description>
     </item>
     
     <item>
       <title>Hotel in Seattle</title>
-      <link>https://maehl.eu/posts/2015-10-26_hotel-in-seattle/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-26_hotel-in-seattle/</link>
       <pubDate>Mon, 26 Oct 2015 15:12:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-26_hotel-in-seattle/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-26_hotel-in-seattle/</guid>
       <description>Das ist unser Zuhause für die nächsten 4 Nächte. Mal sehen, was wir gleich noch schaffen.</description>
     </item>
     
     <item>
       <title>Mittagessen</title>
-      <link>https://maehl.eu/posts/2015-10-26_mittagessen/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-26_mittagessen/</link>
       <pubDate>Mon, 26 Oct 2015 15:09:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-26_mittagessen/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-26_mittagessen/</guid>
       <description>Mittagessen war lecker.</description>
     </item>
     
     <item>
       <title>Und das Abendessen</title>
-      <link>https://maehl.eu/posts/2015-10-26_und-das-abendessen/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-26_und-das-abendessen/</link>
       <pubDate>Mon, 26 Oct 2015 15:09:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-26_und-das-abendessen/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-26_und-das-abendessen/</guid>
       <description>War auch sehr gut. Wobei Abendessen ja irgendwie komisch ist, wenn man um Mittag herum in Seattle landen wird.</description>
     </item>
     
     <item>
       <title>Unterhaltung</title>
-      <link>https://maehl.eu/posts/2015-10-26_unterhaltung/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-26_unterhaltung/</link>
       <pubDate>Mon, 26 Oct 2015 02:19:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-26_unterhaltung/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-26_unterhaltung/</guid>
       <description>Das erste mal mit Bildschirm im Sitz. Sogar mit USB Anschluss. Wir sind begeistert.
 [</description>
     </item>
     
     <item>
       <title>Unser Flug</title>
-      <link>https://maehl.eu/posts/2015-10-26_unser-flug/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-26_unser-flug/</link>
       <pubDate>Mon, 26 Oct 2015 00:47:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-26_unser-flug/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-26_unser-flug/</guid>
       <description>LH 490</description>
     </item>
     
     <item>
       <title>Am Gate</title>
-      <link>https://maehl.eu/posts/2015-10-26_am-gate/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-26_am-gate/</link>
       <pubDate>Mon, 26 Oct 2015 00:41:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-26_am-gate/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-26_am-gate/</guid>
       <description>Sicherheitskontrolle haben wir hinter uns. Zum ersten mal mit Körperscanner und automatischer Passkontrolle. Die macht im Gang ein Foto und vergleicht das mit dem Reisepass. Anscheinend funktioniert das bei uns aber noch nicht weil wir zur Nachkontrolle am Zollhäuschen mussten.</description>
     </item>
     
     <item>
       <title>Arrived at Frankfurt Airport</title>
-      <link>https://maehl.eu/posts/2015-10-25_arrived-at-frankfurt-airport/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-25_arrived-at-frankfurt-airport/</link>
       <pubDate>Sun, 25 Oct 2015 06:12:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-25_arrived-at-frankfurt-airport/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-25_arrived-at-frankfurt-airport/</guid>
       <description>Angekommen in Frankfurt. Hier ist man wirklich vom Bahnhof gleich im Flugzeug oder in unserem Falle im Hotel.</description>
     </item>
     
     <item>
       <title>Sheraton</title>
-      <link>https://maehl.eu/posts/2015-10-25_sheraton/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-25_sheraton/</link>
       <pubDate>Sun, 25 Oct 2015 06:12:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-25_sheraton/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-25_sheraton/</guid>
       <description>Im Hotelzimmer angekommen. Gefällt uns jetzt schon. Kurz frisch machen. Und dann ab zu Nina. Die hat hoffentlich schon den Kaffeetisch gedeckt :)</description>
     </item>
     
     <item>
       <title>Fulda</title>
-      <link>https://maehl.eu/posts/2015-10-25_fulda/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-25_fulda/</link>
       <pubDate>Sun, 25 Oct 2015 04:30:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-25_fulda/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-25_fulda/</guid>
       <description>Bitte umsteigen&amp;hellip;</description>
     </item>
     
     <item>
       <title>Tschööö, Paderborn</title>
-      <link>https://maehl.eu/posts/2015-10-25_tschoe-paderborn/</link>
+      <link>https://blog.maehl.eu/posts/2015-10-25_tschoe-paderborn/</link>
       <pubDate>Sun, 25 Oct 2015 02:44:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2015-10-25_tschoe-paderborn/</guid>
+      <guid>https://blog.maehl.eu/posts/2015-10-25_tschoe-paderborn/</guid>
       <description>Jetzt beginnt offiziell der Urlaub. Wir sitzen am Paderborner Hauptbahnhof und warten auf den Zug nach Frankfurt. Planmäßige Abfahrt 10:49.</description>
     </item>
     
     <item>
       <title>Unser Flugzeug bis London</title>
-      <link>https://maehl.eu/posts/2013-05-30_unser-flugzeug-bis-london/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-30_unser-flugzeug-bis-london/</link>
       <pubDate>Thu, 30 May 2013 17:05:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-30_unser-flugzeug-bis-london/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-30_unser-flugzeug-bis-london/</guid>
       <description>Es ist ein Jumbo. Nach der kleinen Funzel, mit der wir nach Chicago geflogen sind, mal wieder ein standesgemäßes Transportmittel.
 Übrigens sind es bis Los Angeles 2600 Meilen und nach London 3200. Das macht einem ein wenig klarer, wie groß die USA sind.</description>
     </item>
     
     <item>
       <title>Flug nach London</title>
-      <link>https://maehl.eu/posts/2013-05-30_flug-nach-london/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-30_flug-nach-london/</link>
       <pubDate>Thu, 30 May 2013 14:53:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-30_flug-nach-london/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-30_flug-nach-london/</guid>
       <description>Unser Flug nach London! http://share.mobiata.com/Xi1h</description>
     </item>
     
     <item>
       <title>Bustour</title>
-      <link>https://maehl.eu/posts/2013-05-30_bustour/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-30_bustour/</link>
       <pubDate>Thu, 30 May 2013 06:28:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-30_bustour/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-30_bustour/</guid>
       <description>Gestern sind wir mit einer Tour durch Boston, Cambridge und den Hafen gefahren. Boston ist vom Stil her schon eher mit einer europäischen Stadt zu vergleichen. Sehr viele Steinhäuser, verwinkelte alte Gassen, kleine Parkanlagen. Gestern habe ich mit dem Telefon keine Fotos gemacht, dass wird aber heute evtl. noch ein wenig nachgeholt.
 Heute ist dann auch der letzte Tag in den USA. Heute abend geht es um 21:30 auf den Weg nach Hause mit 2stündigem Zwischenstopp in London.</description>
     </item>
     
     <item>
       <title>Boston</title>
-      <link>https://maehl.eu/posts/2013-05-28_boston/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-28_boston/</link>
       <pubDate>Tue, 28 May 2013 19:07:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-28_boston/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-28_boston/</guid>
       <description>Nach unsere Ankunft im Hotel dachten wir uns wir gehen mal kurz in die Stadt, schon mal schauen was hier so los ist.
 Wir sind mit dem Wassertaxi einmal quer durch den Bostoner Hafen gedüst.
 Nach ca. 7 Minuten waren wir auf der anderen Seite.
@@ -541,19 +542,19 @@ Dort sind wir noch ein bisschen durch die Innenstadt geschlendert, haben schön 
     
     <item>
       <title>Einchecken in Boston</title>
-      <link>https://maehl.eu/posts/2013-05-28_einchecken-in-boston/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-28_einchecken-in-boston/</link>
       <pubDate>Tue, 28 May 2013 18:19:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-28_einchecken-in-boston/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-28_einchecken-in-boston/</guid>
       <description>Deswegen hat das Einchecken so lange gedauert. Die haben doch aber eine E-Mail mit unseren Angaben bekommen. Konnten sie nur nicht richtig abschreiben.</description>
     </item>
     
     <item>
       <title>Fazit der Übernachtungen in Provincetown</title>
-      <link>https://maehl.eu/posts/2013-05-28_fazit-der-uebernachtungen/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-28_fazit-der-uebernachtungen/</link>
       <pubDate>Tue, 28 May 2013 06:56:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-28_fazit-der-uebernachtungen/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-28_fazit-der-uebernachtungen/</guid>
       <description>1. Nacht
 Brrrrrrr, einfach nur kalt.
 2. Nacht
@@ -564,10 +565,10 @@ Keine Heizung mehr nötig. Die Sonne hat die Hütte genug aufgeheizt, puh.</desc
     
     <item>
       <title>Atlantik</title>
-      <link>https://maehl.eu/posts/2013-05-27_atlantik/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-27_atlantik/</link>
       <pubDate>Mon, 27 May 2013 13:23:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-27_atlantik/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-27_atlantik/</guid>
       <description>Heute war wieder Hammer Wetter. 20 Grad und Sonnenschein. Da dachten wir uns: auf auf zum Strand.
 Gesagt, getan. Halbe Stunde gemütlichen Fußmarsch und dann waren wir da.
 Hätten wir gewusst wie wir bei dem Jeep den Reifendruck ablassen, hätten wir mit dem Wagen bis zum Wasser fahren dürfen. Krass die Amis. Das würde es bei uns nicht geben. Muss Spaß machen mit dem Auto über die Dünen zu fahren. Und besonders praktisch ist es ja auch, weil man die ganzen Klamotten fürs Picknick/Sonnenbaden nicht schleppen muss.</description>
@@ -575,19 +576,19 @@ Hätten wir gewusst wie wir bei dem Jeep den Reifendruck ablassen, hätten wir m
     
     <item>
       <title>Parking Enforcement</title>
-      <link>https://maehl.eu/posts/2013-05-27_parking-enforcement/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-27_parking-enforcement/</link>
       <pubDate>Mon, 27 May 2013 07:17:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-27_parking-enforcement/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-27_parking-enforcement/</guid>
       <description>Klingt doch besser als Ordnungsamt, oder? Hier haben die Politessen eigene Dienstwagen.</description>
     </item>
     
     <item>
       <title>Provincetown</title>
-      <link>https://maehl.eu/posts/2013-05-27_provincetown/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-27_provincetown/</link>
       <pubDate>Mon, 27 May 2013 07:11:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-27_provincetown/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-27_provincetown/</guid>
       <description>Gestern waren wir in der &amp;ldquo;Innenstadt&amp;rdquo; von Provincetown. Durch das lange Wochenende war hier entsprechend viel los. Der Ort selbst ist mit 3.400 Bewohnern sonst vermutlich wesentlich leerer.
 Hier gibt es so gut wie keine großen Geschäfte. Alles lokale Händler aus dem Ort. Sehr hübsch.
 Das Wetter hat einigermaßen mitgespielt. Kein Regen, warm genug zum herumlaufen, aber sehr bewölkt.</description>
@@ -595,38 +596,38 @@ Das Wetter hat einigermaßen mitgespielt. Kein Regen, warm genug zum herumlaufen
     
     <item>
       <title>Angekommen in Provincetown</title>
-      <link>https://maehl.eu/posts/2013-05-25_angekommen-in-provincetown/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-25_angekommen-in-provincetown/</link>
       <pubDate>Sat, 25 May 2013 14:07:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-25_angekommen-in-provincetown/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-25_angekommen-in-provincetown/</guid>
       <description>Hier haben wir uns ein schnuckeliges Motel gesucht. Hauptsächlich deswegen, weil die Hotels für drei Nächte unser komplettes Urlaubsbudget verbraucht hätten. Liegt auch daran, das dieses Wochenende Memorial Day ist, und damit die Urlaubssaison hier beginnt. Ufff. Ich denke aber, das kleine Zimmer wird durch den Ausblick ausgeglichen.</description>
     </item>
     
     <item>
       <title>New Haven und Yale</title>
-      <link>https://maehl.eu/posts/2013-05-25_new-haven-und-yale/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-25_new-haven-und-yale/</link>
       <pubDate>Sat, 25 May 2013 12:37:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-25_new-haven-und-yale/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-25_new-haven-und-yale/</guid>
       <description>Gestern haben wir uns New Haven angesehen. Wobei man eigentlich sagen muss, wir haben uns Yale angesehen. Die Universität ist eigentlich die ganze Stadt. Sie ist der größte Arbeitgeber hier. Selbst die Shoppingmeile wird Shopping@Yale genannt. Yale ist ja eine der Ivy League Unis, also eine der alten Eliteunis in den USA. Als wir dort waren, waren auch gerade die Klassentreffen. Da hingen dann Schilder zur 12th Reunion, 15th, 30th, und sogar zur 65th herum.</description>
     </item>
     
     <item>
       <title>Riesenmengen Eistee</title>
-      <link>https://maehl.eu/posts/2013-05-24_riesenmengen-eistee/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-24_riesenmengen-eistee/</link>
       <pubDate>Fri, 24 May 2013 18:05:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-24_riesenmengen-eistee/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-24_riesenmengen-eistee/</guid>
       <description>Snapple und Arizona kauft man in den USA nicht in den kleinen 500ml Flaschen für 2 bis 3 Euro, sondern als halbe/ganze Gallone für weniger.
 Daniel, David: Ich würde euch gerne was mitbringen, aber bei 100ml ist ja im Flugzeug Schluss.</description>
     </item>
     
     <item>
       <title>Feueralarm</title>
-      <link>https://maehl.eu/posts/2013-05-24_feueralarm/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-24_feueralarm/</link>
       <pubDate>Fri, 24 May 2013 07:21:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-24_feueralarm/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-24_feueralarm/</guid>
       <description>Heute morgen gegen 7:30 Uhr ging der Feueralarm los.
 Wir wurden natürlich aus dem Schlaf gerissen und wussten erst nicht so recht was dieses Getröte soll. Bis eine freundliche Frauenstimme uns über den Lautsprecher im Zimmer klar machte, das der Feueralarm ausgelöst wurde und wir doch bitte das Hotel über das Treppenhaus verlassen möchten.
 Jeder weiß doch das man diesen Anweisungen sofort Folge leisten sollte. Aber ihr glaubt ja gar nicht, was man doch noch zu retten versucht wenn man noch kein Feuer/Rauch sieht/riecht.</description>
@@ -634,10 +635,10 @@ Jeder weiß doch das man diesen Anweisungen sofort Folge leisten sollte. Aber ih
     
     <item>
       <title>Monopoly</title>
-      <link>https://maehl.eu/posts/2013-05-24_monopoly/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-24_monopoly/</link>
       <pubDate>Fri, 24 May 2013 07:21:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-24_monopoly/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-24_monopoly/</guid>
       <description>Mein Schatz!
 Ich hab mich durchgesetzt, oder besser noch: ich saß einfach am Steuer als wir am Best Buy vorbeigefahren sind und ich mich spontan entschlossen habe dort zu halten und die World of Warcraft Monopoly Collectors Edition zu kaufen.
 Nun muss ich nur noch Dominik jeden Abend überreden eine Runde mit mir zu spielen und mir überlegen wie ich sie in den Koffer bekomme.</description>
@@ -645,38 +646,38 @@ Nun muss ich nur noch Dominik jeden Abend überreden eine Runde mit mir zu spiel
     
     <item>
       <title>Pepes Pizza</title>
-      <link>https://maehl.eu/posts/2013-05-23_pepes-pizza/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-23_pepes-pizza/</link>
       <pubDate>Thu, 23 May 2013 20:50:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-23_pepes-pizza/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-23_pepes-pizza/</guid>
       <description>Heute Abend waren wir in einer bekannten New Havener Pizzeria: Pepes. Die Pizza war ganz OK. Wir deutschen profitieren anscheinend doch von der Nähe zu Italien. Diese war für unseren Geschmack zu fettig. Den Rand haben wir übrigens nicht mehr geschafft.</description>
     </item>
     
     <item>
       <title>Ver..... kann ich mich auch alleine</title>
-      <link>https://maehl.eu/posts/2013-05-23_ver-kann-ich-mich-auch-alleine/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-23_ver-kann-ich-mich-auch-alleine/</link>
       <pubDate>Thu, 23 May 2013 15:18:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-23_ver-kann-ich-mich-auch-alleine/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-23_ver-kann-ich-mich-auch-alleine/</guid>
       <description>Manno ;) Sonst sind wir übrigens in New Haven angekommen. Hier regnet es auch ein wenig. Mal sehen, wie es wird. Hotel liegt direkt am I-95. Aber bisher macht es einen guten Eindruck.</description>
     </item>
     
     <item>
       <title>Blick auf Manhattan</title>
-      <link>https://maehl.eu/posts/2013-05-23_blick-auf-manhattan/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-23_blick-auf-manhattan/</link>
       <pubDate>Thu, 23 May 2013 15:10:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-23_blick-auf-manhattan/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-23_blick-auf-manhattan/</guid>
       <description>Kein gutes Bild, aber Kristin wollte einfach nicht anhalten auf der 8-spurigen Autobahn. ;)
 Manhattan unterfährt man übrigens komplett im Tunnel. Also sind wir rein rechtlich nicht durch Manhattan gefahren, was laut Mietwagen Bedingungen verboten wäre.</description>
     </item>
     
     <item>
       <title>Wetter bei Abreise: Angenehm</title>
-      <link>https://maehl.eu/posts/2013-05-23_wetter-bei-abreise-angenehm/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-23_wetter-bei-abreise-angenehm/</link>
       <pubDate>Thu, 23 May 2013 08:31:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-23_wetter-bei-abreise-angenehm/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-23_wetter-bei-abreise-angenehm/</guid>
       <description>Ja, da fahren wir ja heute weg, und was ist das: Angenehme 23°C in Philly. Naja, dafür aber auch bewölkt. Wir sagen &amp;ldquo;Tschüss Philly&amp;rdquo;.
 Der Truck sah übrigens einfach nur gut aus.
 Bis später.</description>
@@ -684,47 +685,47 @@ Bis später.</description>
     
     <item>
       <title>Klaut nicht! auf amerikanisch</title>
-      <link>https://maehl.eu/posts/2013-05-23_klaut-nicht-auf-amerikanisch/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-23_klaut-nicht-auf-amerikanisch/</link>
       <pubDate>Thu, 23 May 2013 08:28:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-23_klaut-nicht-auf-amerikanisch/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-23_klaut-nicht-auf-amerikanisch/</guid>
       <description>So kann man auch sagen, das oft geklaut wurde. Ich glaube nur, wir würden das direkter sagen.</description>
     </item>
     
     <item>
       <title>Oh Yoko!</title>
-      <link>https://maehl.eu/posts/2013-05-23_oh-yoko/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-23_oh-yoko/</link>
       <pubDate>Thu, 23 May 2013 08:27:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-23_oh-yoko/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-23_oh-yoko/</guid>
       <description>Am Abend haben wir uns getraut, Sushi zu essen. In der Nähe gab es zwei Restaurants, dieses hatte die besseren Bewertungen, also ran.
 120$ kostete der Spaß. Das ist happig, selbst für Amerika, wo gutes Essen generell teurer ist. Aber es war der Hammer. Vom Aussehen war es schon super. Selbst Kristins Sushi ohne Fisch war so schön angerichtet. Leider auf dem Bild nicht so gut zu erkennen. Der Geschmack war aber noch besser.</description>
     </item>
     
     <item>
       <title>Liberty Bell</title>
-      <link>https://maehl.eu/posts/2013-05-23_liberty-bell/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-23_liberty-bell/</link>
       <pubDate>Thu, 23 May 2013 08:10:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-23_liberty-bell/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-23_liberty-bell/</guid>
       <description>Gestern waren wir im historischen Viertel von Philly. Dort sind die Independence Hall,die Liberty Bell und das Rathaus. Leider gab es für die Independence Hall keine Karten mehr. Die Bell haben wir uns aber noch angesehen. Für Europäer halt eine alte Glocke, für die Amerikaner aber ein Symbol. Wir standen ne halbe Stunde an, wurden ausführlicher als am Flughafen gefilzt, und durften dann weiter zur Glocke und ein paar Texttafeln. Foto gemacht und wieder raus.</description>
     </item>
     
     <item>
       <title>Phiiiilllaaadeeelphiaaaa</title>
-      <link>https://maehl.eu/posts/2013-05-22_phiiiilllaaadeeelphiaaaa/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-22_phiiiilllaaadeeelphiaaaa/</link>
       <pubDate>Wed, 22 May 2013 12:11:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-22_phiiiilllaaadeeelphiaaaa/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-22_phiiiilllaaadeeelphiaaaa/</guid>
       <description>Ich weiß ja nicht, aber irgendwie kann ich nicht glauben, dass sich der Frischkäse hier wohl fühlt.</description>
     </item>
     
     <item>
       <title>Bundesstaaten</title>
-      <link>https://maehl.eu/posts/2013-05-22_bundesstaaten/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-22_bundesstaaten/</link>
       <pubDate>Wed, 22 May 2013 07:06:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-22_bundesstaaten/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-22_bundesstaaten/</guid>
       <description>&amp;hellip;haben wir schon einige passiert.
 Illinois
 Indiana
@@ -740,46 +741,46 @@ Und ein paar kommen noch. Das war das letzte mal schon übersichtlicher mit Kali
     
     <item>
       <title>Willkommen in Philadelphia, äh Cherry Hill</title>
-      <link>https://maehl.eu/posts/2013-05-22_willkommen-in-philadelphia/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-22_willkommen-in-philadelphia/</link>
       <pubDate>Wed, 22 May 2013 06:57:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-22_willkommen-in-philadelphia/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-22_willkommen-in-philadelphia/</guid>
       <description>Unser nächster Stopp sollte eigentlich Philly werden. Aber dort waren die Hotels in den guten Gegenden so teuer, dass wir auf Cherry Hill ausgewichen sind. Das ist nur ein paar Meilen von Philly entfernt, aber nen anderer Bundesstaat. Dort waren wir gestern mal die Shopping Malls ansehen, hier sind nämlich mehrere. Dabei hat Kristin ein Armband abgestaubt. Das musste ich aber kaufen, weil es bei den Männerbändern hing, und das war ihr dann peinlich.</description>
     </item>
     
     <item>
       <title>Nochmal Mini-SUV</title>
-      <link>https://maehl.eu/posts/2013-05-22_nochmal-mini-suv/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-22_nochmal-mini-suv/</link>
       <pubDate>Wed, 22 May 2013 06:49:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-22_nochmal-mini-suv/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-22_nochmal-mini-suv/</guid>
       <description>Ohne Worte.</description>
     </item>
     
     <item>
       <title>Arlington National Cemetery</title>
-      <link>https://maehl.eu/posts/2013-05-20_arlington-national-cemetery/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-20_arlington-national-cemetery/</link>
       <pubDate>Mon, 20 May 2013 18:54:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-20_arlington-national-cemetery/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-20_arlington-national-cemetery/</guid>
       <description>Hat sicher jeder schon mal irgendwo gesehen. Wir mussten da hin. Gerade auch, weil es direkt neben unserem Hotel war. Ist schon ein Anblick, die ganzen Grabsteine so angeordnet zu sehen. Wirklich lange sind wir dort aber nicht geblieben. Es war soooo warm und schwül. Der Friedhof ist übrigens riesig.</description>
     </item>
     
     <item>
       <title>Wetter in D.C.</title>
-      <link>https://maehl.eu/posts/2013-05-20_wetter-in-dc/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-20_wetter-in-dc/</link>
       <pubDate>Mon, 20 May 2013 12:26:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-20_wetter-in-dc/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-20_wetter-in-dc/</guid>
       <description>Eine Anmerkung zum Wetter: Beide Tage wurde uns Regen und Sturm angekündigt. An beiden Tagen war es morgens auch diesig und sah nach Regen aus. Aber wie auf Befehl ist die Wolkendecke beim verlassen der Metro aufgebrochen. Jetzt scheint wieder wunderschön die Sonne. Nur leider ist es so was von schwül, dass man kaum gehen will. Naja, das bisschen schaffen wir jetzt auch noch.</description>
     </item>
     
     <item>
       <title>Capitol Hill</title>
-      <link>https://maehl.eu/posts/2013-05-20_capitol-hill/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-20_capitol-hill/</link>
       <pubDate>Mon, 20 May 2013 12:19:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-20_capitol-hill/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-20_capitol-hill/</guid>
       <description>Heute sind wir auf dem Weg zum Capitol erstmal schön gepflegt am J. Edgar Hoover Building vorbei. Für die die es nicht wissen, das ist das FBI Hauptquartier.
 Dann noch das Archives of the United States rechts liegen lassen (weil die Schlange einfach zu lang war, sonst hätten wir noch schnell einen Blick auf die Unabhängigkeitserklärung geworfen) und da war es dann: das Capitol.
 Gesehen haben wir es ja schon lange.</description>
@@ -787,57 +788,57 @@ Gesehen haben wir es ja schon lange.</description>
     
     <item>
       <title>The White House</title>
-      <link>https://maehl.eu/posts/2013-05-19_the-white-house/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-19_the-white-house/</link>
       <pubDate>Sun, 19 May 2013 18:08:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-19_the-white-house/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-19_the-white-house/</guid>
       <description>Das Highlight des Tages war das Weiße Haus. Wir sind einmal komplett rum. Das ist soooo schön da.
 Wir hatten das Glück, das grad wer furchtbar wichtiges auf dem Weg ins Weiße Haus war. Vielleicht sogar der Chef persönlich? Man weiß es nicht. Aber wir gehen mal davon aus. Deswegen ist es umso aufregender. Und wer sonst braucht Geleitschutz von zwei Militärhubschraubern? Blöd nur das man den Landeplatz zwischen all den Bäumen nicht einsehen konnte.</description>
     </item>
     
     <item>
       <title>Lincoln Memorial</title>
-      <link>https://maehl.eu/posts/2013-05-19_lincoln-memorial/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-19_lincoln-memorial/</link>
       <pubDate>Sun, 19 May 2013 18:02:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-19_lincoln-memorial/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-19_lincoln-memorial/</guid>
       <description>Den kennt man auch. Und es gab dazu noch einen Hammer Ausblick auf den
 Reflecting Pool, auf dem sich einige Enten tummelten. Der ist übrigens so flach, das die Enten laufen statt schwimmen :) Es bezog sich zwar langsam, aber Regen gab es zum Glück nicht.</description>
     </item>
     
     <item>
       <title>Washington Monument</title>
-      <link>https://maehl.eu/posts/2013-05-19_washington-monument/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-19_washington-monument/</link>
       <pubDate>Sun, 19 May 2013 17:59:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-19_washington-monument/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-19_washington-monument/</guid>
       <description>Heute haben wir uns die Füße abgelaufen, und das bei 26 Grad und schön drückender Luft. Nachdem wir mit dem Auto das Pech hatten keinen Parkplatz zu finden, sind wir zurück zum Hotel und mit der Metro wieder hingefahren. Heißt dann: laufen&amp;hellip;aber es war der Hammer. Schade war nur, dass das Monument gerade instandgesetzt wird. Es gab 2011 ein Erdbeben der Stärke 5,8 und es hat etwas abbekommen. Nun sind sie schon seit 2 Jahren dabei es wieder schick aussehen zu lassen.</description>
     </item>
     
     <item>
       <title>Fahrt nach Washington D.C.</title>
-      <link>https://maehl.eu/posts/2013-05-18_fahrt-nach-washington-dc/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-18_fahrt-nach-washington-dc/</link>
       <pubDate>Sat, 18 May 2013 18:38:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-18_fahrt-nach-washington-dc/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-18_fahrt-nach-washington-dc/</guid>
       <description>Die Fahrt vom Memorial nach D.C. war eher unspektakulär. Bis auf die Tatsache, dass wir ca. eine Stunde kein Netz und damit auch keine Navigation hatten. Dabei sind wir durch eine total schöne Bergregion gefahren. Leider fast keine Fotos mit dem Telefon, also müsst ihr euch noch gedulden. Wer hier aber mal in der Gegend sein sollte&amp;hellip;Allegheny Mountains, angefangen mit Mt. Ararat.</description>
     </item>
     
     <item>
       <title>Unser Zimmer in D.C.</title>
-      <link>https://maehl.eu/posts/2013-05-18_unser-zimmer-in-dc/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-18_unser-zimmer-in-dc/</link>
       <pubDate>Sat, 18 May 2013 18:38:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-18_unser-zimmer-in-dc/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-18_unser-zimmer-in-dc/</guid>
       <description>Ist bisher das beste, was ich hier an Hotelzimmern gesehen habe. Das Hotel liegt in Arlington, weil D.C. selbst einfach zu teuer war. Und morgen geht es dann über den Potomac River zur National Mall. Das ist übrigens kein Einkaufszentrum, sondern der Regierungsbezirk ;)</description>
     </item>
     
     <item>
       <title>Flug 93</title>
-      <link>https://maehl.eu/posts/2013-05-18_flug-93/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-18_flug-93/</link>
       <pubDate>Sat, 18 May 2013 18:25:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-18_flug-93/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-18_flug-93/</guid>
       <description>Da es fast auf dem Weg lag, kamen wir nicht umhin, uns das Memorial zum Flug 93 anzusehen.
 Für die, die es nicht wissen. Das war der Flug, der am 11. September vermutlich das Kapitol treffen sollte. Durch den Einsatz der Passagiere und Crew konnten die Terroristen ihr Ziel aber nicht erreichen und haben stattdessen das Flugzeug abstürzen lassen.
 Irgendwie steckte mir dort die ganze Zeit ein Klos im Hals. Es war aber sehr schön angelegt und wirkte auch sehr persönlich und schlicht.</description>
@@ -845,132 +846,132 @@ Irgendwie steckte mir dort die ganze Zeit ein Klos im Hals. Es war aber sehr sch
     
     <item>
       <title>Auf nach Washington D.C.</title>
-      <link>https://maehl.eu/posts/2013-05-18_auf-nach-washington-dc/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-18_auf-nach-washington-dc/</link>
       <pubDate>Sat, 18 May 2013 06:59:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-18_auf-nach-washington-dc/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-18_auf-nach-washington-dc/</guid>
       <description>Goodbye Pittsburgh. Wir machen uns jetzt auf den Weg nach D.C. Ob direkt oder mit Umweg überlegen wir noch.</description>
     </item>
     
     <item>
       <title>Pittsburgh</title>
-      <link>https://maehl.eu/posts/2013-05-17_pittsburgh/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-17_pittsburgh/</link>
       <pubDate>Fri, 17 May 2013 15:43:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-17_pittsburgh/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-17_pittsburgh/</guid>
       <description>Heute haben wir eine Sightseeing-Hop-on/Hop off-Bustour durch Pittsburgh gemacht. Unser Guide war Chris. Der war witzig. Ich glaub er macht seinen Job gerne. Den ganzen Tag sonnenbaden :)
 Gegessen haben wir im Hard Rock Café. Our server Amber was so sweet. Als sie erfahren hat das wir aus Deutschland sind, kam sie immer wieder an unseren Tisch. Sie hat gefragt was wir hier in der Stadt und überhaupt so in diesem Urlaub noch so machen.</description>
     </item>
     
     <item>
       <title>Unser Zimmer in Pittsburgh</title>
-      <link>https://maehl.eu/posts/2013-05-16_unser-zimmer-in-pittsburgh/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-16_unser-zimmer-in-pittsburgh/</link>
       <pubDate>Thu, 16 May 2013 19:39:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-16_unser-zimmer-in-pittsburgh/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-16_unser-zimmer-in-pittsburgh/</guid>
       <description>Ist ein Best Western geworden. Sehr ordentlich. Wird die nächsten zwei Tage unser zuhause sein.</description>
     </item>
     
     <item>
       <title>Essen bei Moes</title>
-      <link>https://maehl.eu/posts/2013-05-16_essen-bei-moes/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-16_essen-bei-moes/</link>
       <pubDate>Thu, 16 May 2013 19:32:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-16_essen-bei-moes/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-16_essen-bei-moes/</guid>
       <description>Nachdem wir mit der Buslinie 38 nach Pittsburgh Downtown gefahren sind, haben wir uns bei Moes erstmal einen Burrito und Quesadillas gegönnt.
 Ground Beef bedeutet übrigens Hackfleisch. Musste ich mir erst zeigen lassen.</description>
     </item>
     
     <item>
       <title>Entering Pittsburgh</title>
-      <link>https://maehl.eu/posts/2013-05-16_entering-pittsburgh/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-16_entering-pittsburgh/</link>
       <pubDate>Thu, 16 May 2013 19:29:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-16_entering-pittsburgh/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-16_entering-pittsburgh/</guid>
       <description>Na Toll, wieder Toll. Aber danach kamen wir bei bewölkten Himmel in Pittsburgh an.</description>
     </item>
     
     <item>
       <title>Willkommen in Pennsylvania</title>
-      <link>https://maehl.eu/posts/2013-05-16_willkommen-in-pennsylvania/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-16_willkommen-in-pennsylvania/</link>
       <pubDate>Thu, 16 May 2013 19:16:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-16_willkommen-in-pennsylvania/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-16_willkommen-in-pennsylvania/</guid>
       <description>Jo. Damit wären wir dann nach Illinois, Indiana und Ohio im vierten Bundesstaat.</description>
     </item>
     
     <item>
       <title>International Breakfast</title>
-      <link>https://maehl.eu/posts/2013-05-16_international-breakfast/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-16_international-breakfast/</link>
       <pubDate>Thu, 16 May 2013 19:11:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-16_international-breakfast/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-16_international-breakfast/</guid>
       <description>Auf Empfehlung von Henrys Besitzer sind wir zum Frühstück ins International Café gefahren. Sehr lecker. Und natürlich hatte das deutsche Omelette Sauerkraut als Füllung. Tja, wir Deutschen halt, nur Sauerkraut und Bier.</description>
     </item>
     
     <item>
       <title>Unterschied zwischen Mid-Size SUV und SUV</title>
-      <link>https://maehl.eu/posts/2013-05-16_unterschied-zwischen-mid-size-suv-und-suv/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-16_unterschied-zwischen-mid-size-suv-und-suv/</link>
       <pubDate>Thu, 16 May 2013 19:04:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-16_unterschied-zwischen-mid-size-suv-und-suv/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-16_unterschied-zwischen-mid-size-suv-und-suv/</guid>
       <description>Links unser kleiner, rechts nen richtiger SUV.</description>
     </item>
     
     <item>
       <title>Henry nicht füttern</title>
-      <link>https://maehl.eu/posts/2013-05-16_henry-nicht-fuettern/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-16_henry-nicht-fuettern/</link>
       <pubDate>Thu, 16 May 2013 17:38:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-16_henry-nicht-fuettern/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-16_henry-nicht-fuettern/</guid>
       <description>Henry ist der Hund vom Besitzer der Lodges. Ein superfreundlicher älterer Mann, der gestern abend meinte: Make yourself comfortable, business can wait till tomorrow. Und mir ein Bier anbot, wie jedem anderen Gast wohl auch. Er hat uns dann heute morgen beim Business noch seine Nummer unterstrichen und gesagt, wenn wir Hilfe bräuchten, könnten wir ihn anrufen. Generell sind hier bisher alle so wahnsinnig nett, das man sich schon schlecht fühlt, wenn man keinen Smalltalk führt.</description>
     </item>
     
     <item>
       <title>Zitronenkuchen in the Sun</title>
-      <link>https://maehl.eu/posts/2013-05-16_zitronenkuchen-in-the-sun/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-16_zitronenkuchen-in-the-sun/</link>
       <pubDate>Thu, 16 May 2013 17:28:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-16_zitronenkuchen-in-the-sun/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-16_zitronenkuchen-in-the-sun/</guid>
       <description>Scheint zu schmecken.</description>
     </item>
     
     <item>
       <title>Radioshack</title>
-      <link>https://maehl.eu/posts/2013-05-16_radioshack/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-16_radioshack/</link>
       <pubDate>Thu, 16 May 2013 17:01:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-16_radioshack/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-16_radioshack/</guid>
       <description>Heute haben wir ein Klinke-auf-Klinke-Kabel für das Auto gesucht. Die Radiosender hier sind furchtbar und die Fahrten sind so schon langweilig genug.
 Mit diesem Kabel haben wir die Möglichkeit unsere Peripheriegeräte via Aux mit dem Autoradio zu verbinden und unsere Musik vom Handy/MP3-Player über die Autolautsprecher zu hören. Also sind wir zum Radioshack. Das ist ein Paradies für uns. Da gibt es alles zum Thema Hifi. Dort haben wir unser Kabel gefunden sowie einige Gadgets für uns zwei.</description>
     </item>
     
     <item>
       <title>Die Fahrt geht weiter</title>
-      <link>https://maehl.eu/posts/2013-05-16_die-fahrt-geht-weiter/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-16_die-fahrt-geht-weiter/</link>
       <pubDate>Thu, 16 May 2013 06:11:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-16_die-fahrt-geht-weiter/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-16_die-fahrt-geht-weiter/</guid>
       <description>Wer möchte nicht mit so einem Ausblick vor der Tür in den neuen Tag starten?
 Es ist jetzt 9 Uhr. Wir bereiten uns für den Aufbruch vor. Suchen gleich eine Möglichkeit zu frühstücken und dann sind wir wieder in the road.</description>
     </item>
     
     <item>
       <title>Eine Autofahrt ist lustig...</title>
-      <link>https://maehl.eu/posts/2013-05-15_eine-autofahrt-ist-lustig/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-15_eine-autofahrt-ist-lustig/</link>
       <pubDate>Wed, 15 May 2013 18:58:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-15_eine-autofahrt-ist-lustig/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-15_eine-autofahrt-ist-lustig/</guid>
       <description>&amp;hellip;weil die Google Navigation versucht, Lake Shore Drive deutsch auszusprechen. Schön war das vorbeifahren an der Chicagoer Skyline. Übel waren die Toll Points auf der Strecke. Insgesamt ca. 20$. Und das wir bei einem zurücksetzen mussten, weil es keinen Cash Schalter gab, wir aber Cash zahlen wollten, und bei uns dann keiner im Häuschen saß.
 Die Strecke von Chicago bis hierher ist wirklich nur Agrarwirtschaft. Dazu vereinzelte Bauernhäuser. Wunderschön, aber auch eintönig.</description>
     </item>
     
     <item>
       <title>Unser Auto für die nächsten 2 Wochen</title>
-      <link>https://maehl.eu/posts/2013-05-15_unser-auto-fuer-die-naechsten-2-wochen/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-15_unser-auto-fuer-die-naechsten-2-wochen/</link>
       <pubDate>Wed, 15 May 2013 18:58:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-15_unser-auto-fuer-die-naechsten-2-wochen/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-15_unser-auto-fuer-die-naechsten-2-wochen/</guid>
       <description>Ist ein Jeep Patriot. Kristin fand ihn von aussen hässlich, aber von innen ist er ganz OK, und das wichtigste: Er fährt sich angenehm.
 Er war aber auch die einzige Wahl, die wir hatten. Der nette Herr am Alamo Schalter sagte noch &amp;ldquo;Pick any car from your category&amp;rdquo;, aber als wir raus kamen fuhr die letzte Alternative gerade weg.
 Das können wir aber Alamo nicht vorwerfen, weil wir eigentlich am falschen Flughafen waren.</description>
@@ -978,210 +979,210 @@ Das können wir aber Alamo nicht vorwerfen, weil wir eigentlich am falschen Flug
     
     <item>
       <title>Navigation mit öffentlichen Verkehrsmitteln</title>
-      <link>https://maehl.eu/posts/2013-05-15_navigation-mit-oeffentlichen-verkehrsmitteln/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-15_navigation-mit-oeffentlichen-verkehrsmitteln/</link>
       <pubDate>Wed, 15 May 2013 18:19:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-15_navigation-mit-oeffentlichen-verkehrsmitteln/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-15_navigation-mit-oeffentlichen-verkehrsmitteln/</guid>
       <description>Das funktionierte in Chicago sowas von gut, das wir Taxen nicht vermisst haben. Merke: SIM-Karte für die USA ist Pflicht ;) 152 war die Linie, und der blaue Punkt sind wir.</description>
     </item>
     
     <item>
       <title>Lakeland Lodges</title>
-      <link>https://maehl.eu/posts/2013-05-15_lakeland-lodges/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-15_lakeland-lodges/</link>
       <pubDate>Wed, 15 May 2013 17:08:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-15_lakeland-lodges/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-15_lakeland-lodges/</guid>
       <description>Die Fahrt war lang. Es gab viel zu überlegen. Dabei ist die Entscheidung gefallen: Cleveland fliegt raus und wir wollen 2 Tage in Pittsburgh verbringen. Drum sind wir jetzt nicht ganz so weit gefahren und in Vermilion gelandet. Ich schreibe nun sitzend von einer Hollywoodschaukel mit Blick aufs Wasser bei Sonnenuntergang. Was will Frau mehr&amp;hellip;super schön hier. Abgestiegen sind wir in einer Lodge am Lake Erie. Klimaanlage gibt wohl nicht, aber Wlan.</description>
     </item>
     
     <item>
       <title>@ Christian</title>
-      <link>https://maehl.eu/posts/2013-05-15_at-christian/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-15_at-christian/</link>
       <pubDate>Wed, 15 May 2013 07:44:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-15_at-christian/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-15_at-christian/</guid>
       <description>Weber Grill Restaurant in Chicago.</description>
     </item>
     
     <item>
       <title>Millennium Park</title>
-      <link>https://maehl.eu/posts/2013-05-15_millennium-park/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-15_millennium-park/</link>
       <pubDate>Wed, 15 May 2013 05:29:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-15_millennium-park/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-15_millennium-park/</guid>
       <description>Da steht auch das Cloud Gate, aber dieses Bild ist nen eigenen Post wert. Es sind übrigens heute schon um halb acht morgens 24°C.</description>
     </item>
     
     <item>
       <title>Willis Tower</title>
-      <link>https://maehl.eu/posts/2013-05-15_willis-tower/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-15_willis-tower/</link>
       <pubDate>Wed, 15 May 2013 05:28:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-15_willis-tower/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-15_willis-tower/</guid>
       <description>Skydeck heißt das Zauberwort. Ist ein Glaskasten der in 400 Meter Höhe aus dem Tower herausragt. Wer Höhenangst hat sollte da nicht rein.</description>
     </item>
     
     <item>
       <title>Shedd Aquarium</title>
-      <link>https://maehl.eu/posts/2013-05-15_shedd-aquarium/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-15_shedd-aquarium/</link>
       <pubDate>Wed, 15 May 2013 05:24:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-15_shedd-aquarium/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-15_shedd-aquarium/</guid>
       <description>Da waren wir doch gestern im Shedd Aquarium. Haben uns eine Aqautic Show angesehen und Ice Age im 4d. War total schön. Die Pinguine waren super süß. Ärgerlich war nur das die Delphine so schnell waren, dass ich sie gar nicht scharf vor die Linse bekommen habe. Und die Belugas passten erst gar nicht ins Bild.</description>
     </item>
     
     <item>
       <title>Chicagoer Hot Dog</title>
-      <link>https://maehl.eu/posts/2013-05-14_chicagoer-hot-dog/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-14_chicagoer-hot-dog/</link>
       <pubDate>Tue, 14 May 2013 19:05:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-14_chicagoer-hot-dog/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-14_chicagoer-hot-dog/</guid>
       <description>Soll man gegessen haben, sagen alle. Wir sagen: muss man aber nicht. War jetzt nicht so der Brüller. Ich habe für mich entschieden, es war das einzige/letzte mal. Ich denke mal für Dominik auch. Der hat seinen nicht mal aufgegessen.</description>
     </item>
     
     <item>
       <title>Interessiert mich die Bohne</title>
-      <link>https://maehl.eu/posts/2013-05-14_interessiert-mich-die-bohne/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-14_interessiert-mich-die-bohne/</link>
       <pubDate>Tue, 14 May 2013 18:56:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-14_interessiert-mich-die-bohne/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-14_interessiert-mich-die-bohne/</guid>
       <description>Oh ja. Hier das Cloud Gate, besser bekannt als The Bean. Haben dort ein wenig im Park gesessen und die Sonne genossen.</description>
     </item>
     
     <item>
       <title>Return of the Lemon Cake</title>
-      <link>https://maehl.eu/posts/2013-05-14_return-of-the-lemon-cake/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-14_return-of-the-lemon-cake/</link>
       <pubDate>Tue, 14 May 2013 18:53:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-14_return-of-the-lemon-cake/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-14_return-of-the-lemon-cake/</guid>
       <description>Erwischt. Der erste Zitronenkuchen von Starbucks musste dran glauben.</description>
     </item>
     
     <item>
       <title>Der Sommer ist da</title>
-      <link>https://maehl.eu/posts/2013-05-14_der-sommer-ist-da/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-14_der-sommer-ist-da/</link>
       <pubDate>Tue, 14 May 2013 07:44:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-14_der-sommer-ist-da/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-14_der-sommer-ist-da/</guid>
       <description>Ein untrügliches Zeichen: Kristin lässt ihre zweite Jacke zuhause ;)</description>
     </item>
     
     <item>
       <title>Dann wähle ich die Chicago Bears</title>
-      <link>https://maehl.eu/posts/2013-05-14_dann-waehle-ich-die-chicago-bears/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-14_dann-waehle-ich-die-chicago-bears/</link>
       <pubDate>Tue, 14 May 2013 07:22:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-14_dann-waehle-ich-die-chicago-bears/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-14_dann-waehle-ich-die-chicago-bears/</guid>
       <description>Weil es die einzigen waren, die etwas in meiner Größe hatten. Mein Kopf ist selbst für amerikanische Verhältnisse riesig. Haben jetzt irgendwas mit XXXL.</description>
     </item>
     
     <item>
       <title>White Sox</title>
-      <link>https://maehl.eu/posts/2013-05-14_white-sox/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-14_white-sox/</link>
       <pubDate>Tue, 14 May 2013 07:17:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-14_white-sox/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-14_white-sox/</guid>
       <description>Ich bin jetzt White Sox Fan, weil die so schöne Mützen haben.</description>
     </item>
     
     <item>
       <title>Fahrplan</title>
-      <link>https://maehl.eu/posts/2013-05-14_fahrplan/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-14_fahrplan/</link>
       <pubDate>Tue, 14 May 2013 05:08:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-14_fahrplan/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-14_fahrplan/</guid>
       <description>Haben wir auch Fahrpläne, die nur den Intervall nennen? Naja, auf jeden Fall sinnlos, wenn daneben eine Anzeige ist, in wieviel Minuten der nächste Zug/Bus kommt.</description>
     </item>
     
     <item>
       <title>Panorama vom Pfc Milton Olive Park</title>
-      <link>https://maehl.eu/posts/2013-05-14_panorama-vom-pfc-milton-olive-park/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-14_panorama-vom-pfc-milton-olive-park/</link>
       <pubDate>Tue, 14 May 2013 04:43:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-14_panorama-vom-pfc-milton-olive-park/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-14_panorama-vom-pfc-milton-olive-park/</guid>
       <description>Hoffe, man kann die Rundumsicht auch außerhalb von Google nutzen.</description>
     </item>
     
     <item>
       <title>John Hancock Observatory</title>
-      <link>https://maehl.eu/posts/2013-05-14_john-hancock-observatory/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-14_john-hancock-observatory/</link>
       <pubDate>Tue, 14 May 2013 04:39:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-14_john-hancock-observatory/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-14_john-hancock-observatory/</guid>
       <description>Aus ca. 300 Metern ein Rundumblick auf Chicago und Umgebung.</description>
     </item>
     
     <item>
       <title>Bubba Gump Shrimp</title>
-      <link>https://maehl.eu/posts/2013-05-14_bubba-gump-shrimp/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-14_bubba-gump-shrimp/</link>
       <pubDate>Tue, 14 May 2013 04:36:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-14_bubba-gump-shrimp/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-14_bubba-gump-shrimp/</guid>
       <description>Gestern Nachmittag waren wir am Navy Pier. Haben uns je eine neue Kopfbedeckung gegönnt (Die Sonne knallt ganz schön) sowie ein Essen bei Bubba Gump Shrimp.
 Der Laden war total schön. Also wer den Film Forrest Gump mag, ist hier super aufgehoben. Wer keine Meerestiere mag, übrigens auch. Es gibt ja nicht NUR Shrimps. Auf dem ersten Bild seht ihr Dominiks Essen. Auf dem zweiten meine Shrimp-freie Variante.</description>
     </item>
     
     <item>
       <title>The Cheesecake Factory</title>
-      <link>https://maehl.eu/posts/2013-05-13_the-cheesecake-factory/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-13_the-cheesecake-factory/</link>
       <pubDate>Mon, 13 May 2013 19:10:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-13_the-cheesecake-factory/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-13_the-cheesecake-factory/</guid>
       <description>Für 8$ gibt es zwar nur ein Stück Mango Key Lime Cheesecake, wir sind aber beide davon satt geworden. Von daher ist es wohl als zwei volle Mahlzeiten zu werten, was es schon wieder günstig erscheinen lässt.</description>
     </item>
     
     <item>
       <title>@ Nina und Patrick</title>
-      <link>https://maehl.eu/posts/2013-05-13_at-nina-und-patrick/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-13_at-nina-und-patrick/</link>
       <pubDate>Mon, 13 May 2013 19:09:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-13_at-nina-und-patrick/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-13_at-nina-und-patrick/</guid>
       <description>Guckt mal: gar nicht weit. Kommt doch mal vorbei. Ihr könnt ja auch schwimmen. Wir warten am Strand.</description>
     </item>
     
     <item>
       <title>Downtown</title>
-      <link>https://maehl.eu/posts/2013-05-13_downtown/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-13_downtown/</link>
       <pubDate>Mon, 13 May 2013 19:09:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-13_downtown/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-13_downtown/</guid>
       <description>Da wären wir nun. Sieht herrlich aus. Hat ein bisschen New Yorker flair. Aber mit einer Hammer Promenade. Dort gibt es sogar einen zweispurigen Radweg und ein kleines Stückchen Sandstrand.</description>
     </item>
     
     <item>
       <title>Skyline</title>
-      <link>https://maehl.eu/posts/2013-05-13_skyline/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-13_skyline/</link>
       <pubDate>Mon, 13 May 2013 19:09:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-13_skyline/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-13_skyline/</guid>
       <description>Das ist mal ein Ausblick. Aber in der &amp;ldquo;windy city&amp;rdquo; ist es ganz schön frisch.</description>
     </item>
     
     <item>
       <title>Tulpen</title>
-      <link>https://maehl.eu/posts/2013-05-13_tulpen/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-13_tulpen/</link>
       <pubDate>Mon, 13 May 2013 19:09:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-13_tulpen/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-13_tulpen/</guid>
       <description>Diese Tulpenbeet lag vor einer Kapelle, mitten zwischen den Wolkenkratzern. Total schön.
 Wer findet die eine Rote sowie die eine Gelbe zwischen den vielen Weißen?</description>
     </item>
     
     <item>
       <title>Wähle weise...</title>
-      <link>https://maehl.eu/posts/2013-05-13_waehle-weise/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-13_waehle-weise/</link>
       <pubDate>Mon, 13 May 2013 19:09:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-13_waehle-weise/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-13_waehle-weise/</guid>
       <description>Ob man sich die Strafe aussuchen darf?</description>
     </item>
     
     <item>
       <title>Der erste Morgen</title>
-      <link>https://maehl.eu/posts/2013-05-13_der-erste-morgen/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-13_der-erste-morgen/</link>
       <pubDate>Mon, 13 May 2013 04:57:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-13_der-erste-morgen/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-13_der-erste-morgen/</guid>
       <description>Jet-Lag bedingt waren wir gestern um halb acht im Bett. Nu ist es 6:47 und wir sind hellwach. Eigentlich ein ganz gutes Ergebnis.
 Die Heizung hat uns in der Nacht geweckt, weil ein Ventil meinte, rumpfeifen zu müssen, aber sonst war der Schlaf für die erste Nacht gut.
 Gegessen haben wir gestern nach ein wenig um den Block laufen bei IHOP. Auch wenn die Speisekarte nicht eine gesunde Sache enthält, hat es doch sehr gut geschmeckt.</description>
@@ -1189,48 +1190,48 @@ Gegessen haben wir gestern nach ein wenig um den Block laufen bei IHOP. Auch wen
     
     <item>
       <title>Unser Hotel</title>
-      <link>https://maehl.eu/posts/2013-05-12_unser-hotel/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-12_unser-hotel/</link>
       <pubDate>Sun, 12 May 2013 13:20:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-12_unser-hotel/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-12_unser-hotel/</guid>
       <description>Schnuckelig. Nen Suite-Upgrade für wenig Geld.</description>
     </item>
     
     <item>
       <title>Willkommen in den United States</title>
-      <link>https://maehl.eu/posts/2013-05-12_willkommen-in-den-united-states/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-12_willkommen-in-den-united-states/</link>
       <pubDate>Sun, 12 May 2013 13:16:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-12_willkommen-in-den-united-states/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-12_willkommen-in-den-united-states/</guid>
       <description>Wir sind da. Und dank Google Maps und SIM-Karte von T-Mobile USA haben wir uns mit den öffentlichen Verkehrsmitteln vom Flughafen zu unserem Hotel leiten lassen.
 Etwas mulmig war uns aber schon, als wir pflichtbewusst an der Station Addison Blue ausgestiegen sind, und das hier gesehen haben.</description>
     </item>
     
     <item>
       <title>Letztes Essen im Flugzeug</title>
-      <link>https://maehl.eu/posts/2013-05-12_letztes-essen-im-flugzeug/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-12_letztes-essen-im-flugzeug/</link>
       <pubDate>Sun, 12 May 2013 13:13:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-12_letztes-essen-im-flugzeug/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-12_letztes-essen-im-flugzeug/</guid>
       <description>War eine Pizza. Sehr lecker. American Airlines bekommt von uns in Sachen Service die Bestnote.</description>
     </item>
     
     <item>
       <title>Der Atlantik ist weg</title>
-      <link>https://maehl.eu/posts/2013-05-12_der-atlantik-ist-weg/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-12_der-atlantik-ist-weg/</link>
       <pubDate>Sun, 12 May 2013 11:44:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-12_der-atlantik-ist-weg/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-12_der-atlantik-ist-weg/</guid>
       <description>Aber dafür wurden wir mit einem kleinen Snack versorgt, und haben eine wunderschöne neue Aussicht. Für die Flecken auf dem Bild kann ich nichts, sie wollten mich das Fenster einfach nicht aufmachen lassen.
 Noch ca. 4 Stunden Flug liegen vor uns. Im Bordprogramm läuft Spider Man.</description>
     </item>
     
     <item>
       <title>Mittagessen über den Wolken</title>
-      <link>https://maehl.eu/posts/2013-05-12_mittagessen-ueber-den-wolken/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-12_mittagessen-ueber-den-wolken/</link>
       <pubDate>Sun, 12 May 2013 11:44:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-12_mittagessen-ueber-den-wolken/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-12_mittagessen-ueber-den-wolken/</guid>
       <description>Vor ca. zwei Stunden gab es Mittagessen. Zur Auswahl gab es Pasta oder Hühnchen. Sieht zwar nicht lecker aus, schmeckte aber sehr gut. Unserer Meinung nach bisher das beste Flugzeugessen.
 Dazu gab es sehr leckere Kekse von Walkers in Schottland. Da Kristin die nicht so lecker fand (Zitat: &amp;ldquo;Och nö, keine Schoki drauf&amp;rdquo;), hab ich auch ihre bekommen.
 Jetzt wäre Zeit zum Schlafen, aber das klappt bisher nicht so recht.</description>
@@ -1238,92 +1239,92 @@ Jetzt wäre Zeit zum Schlafen, aber das klappt bisher nicht so recht.</descripti
     
     <item>
       <title>Abflug</title>
-      <link>https://maehl.eu/posts/2013-05-12_abflug/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-12_abflug/</link>
       <pubDate>Sun, 12 May 2013 00:31:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-12_abflug/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-12_abflug/</guid>
       <description>Jetzt gehts gleich looooos&amp;hellip;..</description>
     </item>
     
     <item>
       <title>Für die beiden Mamas</title>
-      <link>https://maehl.eu/posts/2013-05-11_fuer-die-beiden-mamas/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-11_fuer-die-beiden-mamas/</link>
       <pubDate>Sat, 11 May 2013 23:48:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-11_fuer-die-beiden-mamas/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-11_fuer-die-beiden-mamas/</guid>
       <description>Schokolade essen wir. Ist eh schlecht, bis wir wieder da sind.</description>
     </item>
     
     <item>
       <title>Sicherheitsfragen</title>
-      <link>https://maehl.eu/posts/2013-05-11_sicherheitsfragen/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-11_sicherheitsfragen/</link>
       <pubDate>Sat, 11 May 2013 22:57:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-11_sicherheitsfragen/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-11_sicherheitsfragen/</guid>
       <description>So. Der Check-In ist durch. Wir wurden erstmal getrennt, dann wurden uns einzeln 2-3 Minuten Sicherheitsfragen gestellt. Warum wollen wir da hin, welche Elektronikgeräte haben wir, wie lange haben wir die und wo haben wir die gekauft. Und da ich ein geliehenes Gerät mit habe (Navi von Dirk), musste sie nochmal ihre Supervisorin fragen, ob mehr als zehn Jahre Kollege zu sein ausreichend seien, damit wir ihm vertrauen können.
 Hat aber geklappt.</description>
     </item>
     
     <item>
       <title>Der erste Teil wäre geschafft</title>
-      <link>https://maehl.eu/posts/2013-05-11_der-erste-teil-waere-geschafft/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-11_der-erste-teil-waere-geschafft/</link>
       <pubDate>Sat, 11 May 2013 22:07:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-11_der-erste-teil-waere-geschafft/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-11_der-erste-teil-waere-geschafft/</guid>
       <description>Sind angekommen. Am Flughafen Düsseldorf. Jetzt warten wir, das der Check-In Schalter öffnet.</description>
     </item>
     
     <item>
       <title>Warten auf das Shuttle zum Flughafen: Mutti :)</title>
-      <link>https://maehl.eu/posts/2013-05-11_warten-auf-das-shuttle-zum-flughafen/</link>
+      <link>https://blog.maehl.eu/posts/2013-05-11_warten-auf-das-shuttle-zum-flughafen/</link>
       <pubDate>Sat, 11 May 2013 18:27:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-05-11_warten-auf-das-shuttle-zum-flughafen/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-05-11_warten-auf-das-shuttle-zum-flughafen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Noch 17 Tage...</title>
-      <link>https://maehl.eu/posts/2013-04-25_noch-17-tage/</link>
+      <link>https://blog.maehl.eu/posts/2013-04-25_noch-17-tage/</link>
       <pubDate>Thu, 25 Apr 2013 09:53:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-04-25_noch-17-tage/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-04-25_noch-17-tage/</guid>
       <description>dann geht es mit dem Flug BA1539 von Düsseldorf nach Chicago. Dann gibt es drei Wochen lang wieder Posts von der anderen Seite des großen Teichs.</description>
     </item>
     
     <item>
       <title>Money</title>
-      <link>https://maehl.eu/posts/2013-04-25_money/</link>
+      <link>https://blog.maehl.eu/posts/2013-04-25_money/</link>
       <pubDate>Thu, 25 Apr 2013 09:13:00 -0700</pubDate>
       
-      <guid>https://maehl.eu/posts/2013-04-25_money/</guid>
+      <guid>https://blog.maehl.eu/posts/2013-04-25_money/</guid>
       <description>So. Geld ist schon mal da ;)</description>
     </item>
     
     <item>
       <title>Back in Germany</title>
-      <link>https://maehl.eu/posts/2011-06-03_back-in-germany/</link>
+      <link>https://blog.maehl.eu/posts/2011-06-03_back-in-germany/</link>
       <pubDate>Fri, 03 Jun 2011 15:01:45 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-06-03_back-in-germany/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-06-03_back-in-germany/</guid>
       <description>Wir sind wieder auf deutschem Boden ;)</description>
     </item>
     
     <item>
       <title>Selbstmordversuch in der U-Bahn</title>
-      <link>https://maehl.eu/posts/2011-06-02_selbstmordversuch-in-der-u-bahn/</link>
+      <link>https://blog.maehl.eu/posts/2011-06-02_selbstmordversuch-in-der-u-bahn/</link>
       <pubDate>Thu, 02 Jun 2011 22:08:57 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-06-02_selbstmordversuch-in-der-u-bahn/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-06-02_selbstmordversuch-in-der-u-bahn/</guid>
       <description>Unser Flieger geht ja erst am späten Abend. Drum haben wir nach dem auschecken die Koffer im Hotel gelassen und sind noch zum Ground Zero getravelled. Beeindruckend was die da schon wieder für ein Gebäude hochziehen. Und wie immer machen die Amis mit allem Geld. Da gabs neben der Memorial-Wall so eine Art Ausstellung zu 9/11. Ich kann dich nicht sagen was es dort zu sehen gab, weil die $10 Eintritt haben wollten.</description>
     </item>
     
     <item>
       <title>Wir sagen Dankeschön...und auf Wiedersehen</title>
-      <link>https://maehl.eu/posts/2011-06-02_wir-sagen-dankeschoen/</link>
+      <link>https://blog.maehl.eu/posts/2011-06-02_wir-sagen-dankeschoen/</link>
       <pubDate>Thu, 02 Jun 2011 14:34:16 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-06-02_wir-sagen-dankeschoen/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-06-02_wir-sagen-dankeschoen/</guid>
       <description>Heute verbringen wir noch ein wenig Zeit in New York bevor es dann von JFK über CDG, Paris nach Düsseldorf und dann nach Hause geht. Wir landen voraussichtlich am Freitag um 16:30 in DUS.
 Ich wünsche euch eine erfolgreiche und angenehme Rückreise und hoffe,dass alles glatt läuft und ihr heil zu Hause ankommt. Bis dann, LG Patrick.
 Patrick - Jun 2, 2011</description>
@@ -1331,56 +1332,56 @@ Patrick - Jun 2, 2011</description>
     
     <item>
       <title>Top of the Rock</title>
-      <link>https://maehl.eu/posts/2011-06-02_top-of-the-rock/</link>
+      <link>https://blog.maehl.eu/posts/2011-06-02_top-of-the-rock/</link>
       <pubDate>Thu, 02 Jun 2011 14:27:59 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-06-02_top-of-the-rock/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-06-02_top-of-the-rock/</guid>
       <description>Am Abend hatten wir dann noch eine Verabredung mit der Skyline von New York. Auf dem Rockefeller-Center ist nämlich auch eine Aussichtsplattform, und von dort sieht man dann auch das momentan wieder höchste Gebäude in New York, das Empire State Building.</description>
     </item>
     
     <item>
       <title>Vorbeigucken bei der Lady</title>
-      <link>https://maehl.eu/posts/2011-06-02_vorbeigucken-bei-der-lady/</link>
+      <link>https://blog.maehl.eu/posts/2011-06-02_vorbeigucken-bei-der-lady/</link>
       <pubDate>Thu, 02 Jun 2011 14:23:12 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-06-02_vorbeigucken-bei-der-lady/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-06-02_vorbeigucken-bei-der-lady/</guid>
       <description>Im Tourpaket war ja auch noch eine Bootsfahrt. Die war trotz des zugezogenen Himmels (was übrigens keinerlei Einfluss auf das sch***-schwüle Wetter hatte) sehr schön. Und natürlich haben wir auch die Lady gesehen.</description>
     </item>
     
     <item>
       <title>Tour de New York</title>
-      <link>https://maehl.eu/posts/2011-06-01_tour-de-new-york/</link>
+      <link>https://blog.maehl.eu/posts/2011-06-01_tour-de-new-york/</link>
       <pubDate>Wed, 01 Jun 2011 03:56:37 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-06-01_tour-de-new-york/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-06-01_tour-de-new-york/</guid>
       <description>Heute haben wir New York per Stadtrundfahrt erkundet. Wir haben insgesamt drei Touren (alles in einem Paket) gemacht. Manhattan-Downtown und Uptown sowie eine Night-Tour durch Downtown und Brooklyn. Dabei haben wir viel gesehen und auch erfahren. So wurden in New York die Kaufhäuser und auch Schaufenster erfunden. Times Square ist die am meisten besuchte Attraktion der Welt. Macy&amp;rsquo;s an der 35th das größte Kaufhaus der Welt. Und vieles mehr. Die Stadt ist generell eine Stadt der Superlative ;) Leider hat uns beide die Sonne und ihre Intensität auch sehr überrascht, so das sich nun ein Sonnenbrand par excellence andeutet, wir werden es morgen früh sehen.</description>
     </item>
     
     <item>
       <title>Willkommen in der Großstadt</title>
-      <link>https://maehl.eu/posts/2011-05-31_willkommen-in-der-grossstadt/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-31_willkommen-in-der-grossstadt/</link>
       <pubDate>Tue, 31 May 2011 13:50:41 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-31_willkommen-in-der-grossstadt/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-31_willkommen-in-der-grossstadt/</guid>
       <description>New York. Es ist halb zehn am morgen. 24 Grad, schwülste Luft. Nach 5 Stunden Flug und Jet-Lag-Flug: die Frisur sitzt, dank 3-Wetter-Taft :) und zur Begrüßung in einer Großstadt gabs Ohropax&amp;hellip;. ich weiß nur noch nicht ob die für den Straßenlärm oder die Klimaanlage sind.</description>
     </item>
     
     <item>
       <title>Ankunft in New York</title>
-      <link>https://maehl.eu/posts/2011-05-31_ankunft-in-new-york/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-31_ankunft-in-new-york/</link>
       <pubDate>Tue, 31 May 2011 13:38:38 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-31_ankunft-in-new-york/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-31_ankunft-in-new-york/</guid>
       <description>Wir sind da und das erste mal geschlafen haben wir auch schon. Zwei Dinge: Erstens ist es hier im Vergleich zu Kalifornien heiß und schwül (28-30 Grad) und zweitens merkt man nen leichten Jet Lag.
 Und dann waren wir am Flughafen fast auf die Guerilla-Taxis reingefallen. Da stehen Leute, die einen vor der eigentlichen Taxischlange abfangen und fragen, wohin man möchte. Wir wurden dann stutzig, als wir uns den Parkplätzen für Privatleute genähert haben.</description>
     </item>
     
     <item>
       <title>Aus dem Flugzeug übers Flugzeug</title>
-      <link>https://maehl.eu/posts/2011-05-30_aus-dem-flugzeug-ubers-flugzeug/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-30_aus-dem-flugzeug-ubers-flugzeug/</link>
       <pubDate>Mon, 30 May 2011 22:31:05 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-30_aus-dem-flugzeug-ubers-flugzeug/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-30_aus-dem-flugzeug-ubers-flugzeug/</guid>
       <description>Ha, da das gogoinflight-WLAN wohl auch ohne Erwerb Google Mail durchwinkt, kommt dieser Post aus luftiger Höhe irgendwo zwischen San Francisco und New York.
 Nachdem wir nach Ankunft am Flughafen erstmal beide einen Zitronenkuchen verdrückt haben, ging es ohne Probleme durch den Sicherheitscheck.
 Für unsere Koffer mussten wir dann zu unserer Überraschung pro Koffer $25 zahlen. Ich hätte erwartet, das das bereits im Ticket enthalten ist. Vor allem, da wir alle Flüge zusammengebucht haben und nicht davon auszugehen war, das wir die Koffer nach NY auf wundersame Weise anders transportieren würden, aber egal.</description>
@@ -1388,175 +1389,175 @@ Für unsere Koffer mussten wir dann zu unserer Überraschung pro Koffer $25 zahl
     
     <item>
       <title>Aufbruch nach New York</title>
-      <link>https://maehl.eu/posts/2011-05-30_aufbruch-nach-new-york/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-30_aufbruch-nach-new-york/</link>
       <pubDate>Mon, 30 May 2011 14:59:42 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-30_aufbruch-nach-new-york/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-30_aufbruch-nach-new-york/</guid>
       <description>Heute geht unser Flug zum letzten Ziel unserer Reise: New York. Damit kommen wir euch, was die Zeitzone angeht, auch wieder drei Stunden n??her. Wir sagen: Tschööö, San Francisco.</description>
     </item>
     
     <item>
       <title>Chili im Brot</title>
-      <link>https://maehl.eu/posts/2011-05-30_chili-im-brot/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-30_chili-im-brot/</link>
       <pubDate>Mon, 30 May 2011 14:57:27 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-30_chili-im-brot/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-30_chili-im-brot/</guid>
       <description>Die Einheimischen hier sind ja stolz auf ihr Sourdough-Brot. Bevorzugt verspeisen die in einer ausgehöhlten Variante davon dann ihre Clam Showder. Da Kristin generell, und mir in dem Moment nicht nach Meeresfrüchten war, haben wir das Brot gefüllt mit Chili mitgenommen. Es war sehr lecker. Sowohl das Brot, als auch das Chili. Das Brot ist glaubich auch am nächsten an unserem Graubrot dran. Was wieder zeigt: Auch die Amerikaner haben vom Weißbrot die Schnauze voll :)</description>
     </item>
     
     <item>
       <title>Golden Gate Bridge</title>
-      <link>https://maehl.eu/posts/2011-05-30_golden-gate-bridge/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-30_golden-gate-bridge/</link>
       <pubDate>Mon, 30 May 2011 14:52:39 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-30_golden-gate-bridge/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-30_golden-gate-bridge/</guid>
       <description>Ja, das Wetter hat bei unserem Besuch der Golden Gate Bridge gestern mitgespielt. Riesenteil. Leider brauchte der Bus wohl wg. Memorial Day Weekend hin locker ne Stunde. Zurück ging es dann in guten 15 Minuten. Wobei wir auf den Rückbus auch locker ne halbe Stunde gewartet haben, da wir wohl in die &amp;ldquo;falsche&amp;rdquo; Richtung wollten.</description>
     </item>
     
     <item>
       <title>Was Gutes für die Umwelt tun</title>
-      <link>https://maehl.eu/posts/2011-05-29_was-gutes-fuer-die-umwelt-tun/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-29_was-gutes-fuer-die-umwelt-tun/</link>
       <pubDate>Sun, 29 May 2011 07:13:08 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-29_was-gutes-fuer-die-umwelt-tun/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-29_was-gutes-fuer-die-umwelt-tun/</guid>
       <description>Und noch dafür belohnt werden. So hält es unser Hotel. Wenn man ein spezielles Schild an die Tür hängt, kommt der Zimmerservice an dem Tag nicht aufs Zimmer und man bekommt als Dank einen $5 Gutschein für das hauseigene Restaurant. Das finden wir gut (egal, aus welchen wirklichen Beweggründen), und haben heute den zweiten Gutschein bekommen.</description>
     </item>
     
     <item>
       <title>Früchte</title>
-      <link>https://maehl.eu/posts/2011-05-29_fruechte/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-29_fruechte/</link>
       <pubDate>Sun, 29 May 2011 07:07:02 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-29_fruechte/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-29_fruechte/</guid>
       <description>Früchte und Gemüse zum Snacken gibt es hier wie Sand am Meer. Kristin steht dann eher auf Sellerie, Karotten und Tomaten, ich mehr auf Beeren. Und was für Erdbeeren die hier haben&amp;hellip;hoffentlich ist es mehr die Sonne, als irgendwelche Genetik, die die so schön groß und wohlschmeckend macht.</description>
     </item>
     
     <item>
       <title>Cable Cars</title>
-      <link>https://maehl.eu/posts/2011-05-29_cable-cars/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-29_cable-cars/</link>
       <pubDate>Sun, 29 May 2011 07:03:50 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-29_cable-cars/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-29_cable-cars/</guid>
       <description>Sind schon echt cool. Es fängt ja bei der interessanten Technik an. Aber auf den Trittbrettern zu stehen und haarscharf an vorbeifahrenden Autos entlangzufahren ist noch besser. Also für alle zukünftigen SF-Besucher (ja Dirk, dich meine ich): Cable Car ist Pflicht! Wir haben uns ja heute den 3-Day Passport für $20 gegönnt. Der ist auch ne Empfehlung. $5 je Fahrt ist schon ziemlich teuer.
 Am Union Square hat Kristin dann zwei Stücke Zitronenkuchen bekommen, und ich ein Sandwich.</description>
     </item>
     
     <item>
       <title>Eine Bootsfahrt, die ist lustig...</title>
-      <link>https://maehl.eu/posts/2011-05-29_eine-bootsfahrt-die-ist-lustig/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-29_eine-bootsfahrt-die-ist-lustig/</link>
       <pubDate>Sun, 29 May 2011 06:56:56 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-29_eine-bootsfahrt-die-ist-lustig/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-29_eine-bootsfahrt-die-ist-lustig/</guid>
       <description>Heute haben wir eine Bootsfahrt in der Bay gemacht. Das Wetter hat gerade noch so mitgespielt. Die Golden Gate Bridge ist wirklich atemberaubend. Morgen wollen wir da nochmal zu Fuß drauf.
 Danach hat uns ein unangekündigter Regenschauer leider den restlichen Nachmittag verhagelt. Aber so ist das nunmal mit Küstenstädten.</description>
     </item>
     
     <item>
       <title>Alcatraz</title>
-      <link>https://maehl.eu/posts/2011-05-28_alcatraz/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-28_alcatraz/</link>
       <pubDate>Sat, 28 May 2011 06:23:20 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-28_alcatraz/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-28_alcatraz/</guid>
       <description>Kurzfassung: Beeindruckend. Langfassung: Für $26 kann man per Schiff vom Pier 33 nach Alcatraz fahren. Diese Attraktion wird auch/vor allem von den Amerikanern besucht, was dazu fuhrt, das man kurzfristig nur schwer Karten bekommt. Für die ganze Zeit, die wir in SF sind, war nur noch ein Termin frei, so dass wir uns heute Mittag auf den Weg gemacht haben. Solltet ihr also auch mal da sein, empfiehlt es sich, die Karten vorab im Internet zu bestellen.</description>
     </item>
     
     <item>
       <title>Fotooooh</title>
-      <link>https://maehl.eu/posts/2011-05-28_fotooooh/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-28_fotooooh/</link>
       <pubDate>Sat, 28 May 2011 05:46:05 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-28_fotooooh/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-28_fotooooh/</guid>
       <description>Hier zwei Bilder von der Person auf der anderen Seite der Kamera ;)</description>
     </item>
     
     <item>
       <title>Hard Rock Cafe, nur Deutsche</title>
-      <link>https://maehl.eu/posts/2011-05-28_hard-rock-cafe-nur-deutsche/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-28_hard-rock-cafe-nur-deutsche/</link>
       <pubDate>Sat, 28 May 2011 05:39:01 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-28_hard-rock-cafe-nur-deutsche/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-28_hard-rock-cafe-nur-deutsche/</guid>
       <description>Heute war Shopping angesagt. Nach Alcatraz waren wir im Hard Rock Cafe essen, anschließend noch ein Shirt für mich und ein Hoodie für Dominik kaufen. Mittlerweile haben wir auch eine All Access Card vom Hard Rock. Das lohnt sich schon. Man bekommt schneller nen Tisch. Bei $200 Umsatz gibts nen $20 Gutschein. Essen, Merchandise, Hotel - alles zählt. Für uns super, da wir die Card auch in Deutschland nutzen können. Da gehen wir dort auch schon mal ganz gern essen.</description>
     </item>
     
     <item>
       <title>Cable Car, keine Tickets</title>
-      <link>https://maehl.eu/posts/2011-05-28_cable-car-keine-tickets/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-28_cable-car-keine-tickets/</link>
       <pubDate>Sat, 28 May 2011 05:25:47 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-28_cable-car-keine-tickets/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-28_cable-car-keine-tickets/</guid>
       <description>Cable Cars hier sind schon ne Nummer für sich. Gestern sind wir sie am Tage und auch bei Dunkelheit am Abend gefahren. Der Ausblick ist wunderschön, die Technik begeisternd, die Geschwindigkeit sowie die Mobilität atemberaubend *räusper*. Es gibt nur drei festgelegte Routen. Die zwar nicht sehr lang sind, aber echt die besten Aussichtspunkte von San Francisco abfahren. Zum Beispiel an der Lombard Street. Der kurvenreichste Straße der Welt. Mächtig steil ist Sie auch.</description>
     </item>
     
     <item>
       <title>A venti hot chocolate and one piece of lemon cake</title>
-      <link>https://maehl.eu/posts/2011-05-28_a-venti-hot-chocolate-and-one-piece-of-lemon/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-28_a-venti-hot-chocolate-and-one-piece-of-lemon/</link>
       <pubDate>Sat, 28 May 2011 02:06:21 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-28_a-venti-hot-chocolate-and-one-piece-of-lemon/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-28_a-venti-hot-chocolate-and-one-piece-of-lemon/</guid>
       <description>Kristin ist jetzt Starbucksfan. Aber natürlich nicht wegen dem Kaffee. Sie hat stattdessen den Riesenbecher Kakao und den Zitronenkuchen fur sich entdeckt. Ich glaube, sie hat schon mehr Stücke von dem Kuchen als Burger gegessen, und das soll hier was heißen ;)</description>
     </item>
     
     <item>
       <title>San Francisco bei Dämmerung</title>
-      <link>https://maehl.eu/posts/2011-05-27_san-francisco-bei-daemmerung/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-27_san-francisco-bei-daemmerung/</link>
       <pubDate>Fri, 27 May 2011 05:36:49 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-27_san-francisco-bei-daemmerung/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-27_san-francisco-bei-daemmerung/</guid>
       <description>Nur ein paar schlechte Handyfotos. Wir sind nach dem Speisen noch ein wenig herumgelaufen.</description>
     </item>
     
     <item>
       <title>Einbruch in Alcatraz</title>
-      <link>https://maehl.eu/posts/2011-05-27_einbruch-in-alcatraz/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-27_einbruch-in-alcatraz/</link>
       <pubDate>Fri, 27 May 2011 05:00:00 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-27_einbruch-in-alcatraz/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-27_einbruch-in-alcatraz/</guid>
       <description>Die Karten sind bestellt. Morgen Mittag gehts auf zu &amp;ldquo;The Rock&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Bezahlen in Restaurants</title>
-      <link>https://maehl.eu/posts/2011-05-27_bezahlen-in-restaurants/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-27_bezahlen-in-restaurants/</link>
       <pubDate>Fri, 27 May 2011 04:58:00 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-27_bezahlen-in-restaurants/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-27_bezahlen-in-restaurants/</guid>
       <description>Habe ich schon drüber geschrieben, aber wir müssen es nochmal loswerden: Das Bezahlen einer Restaurantrechnung ist hier so einfach und schön, das wir uns fast darum zoffen, wer bezahlen darf. Man sagt, das man zahlen will. Dann bekommt man eine Mappe, in der die Rechnung liegt. Man steckt seine Kreditkarte in das Fach in der Mappe. Die Karte guckt dabei ein Stückchen heraus. Der Kellner holt sich die Mappe wieder ab, zieht die Karte durch und bringt einem die Mappe mit Kreditkarte, einem Stift und zwei weiteren Belegen zurück.</description>
     </item>
     
     <item>
       <title>Airport Schüttel, äh Shuttle</title>
-      <link>https://maehl.eu/posts/2011-05-26_airport-schuettel-aeh-shuttle/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-26_airport-schuettel-aeh-shuttle/</link>
       <pubDate>Thu, 26 May 2011 07:02:14 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-26_airport-schuettel-aeh-shuttle/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-26_airport-schuettel-aeh-shuttle/</guid>
       <description>In SF haben wir es mal anders gemacht und sind erst mit dem Wagen zum Hotel gefahren um dort einzuchecken. Erst danach und ohne die Koffer haben wir den Wagen zum Flughafen gebracht. Auf Anraten des Concierge sind wir dann nicht mit Bus/Bahn zurück zum Hotel (Taxi ist einfach zu teuer), sondern haben ein Share-A-Ride Shuttle am Airport bestiegen. Diese bringen einen für $16 p.P. von Airport zum Hotel. Taxi liegt bei ca.</description>
     </item>
     
     <item>
       <title>17 Mile Drive</title>
-      <link>https://maehl.eu/posts/2011-05-26_17-mile-drive/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-26_17-mile-drive/</link>
       <pubDate>Thu, 26 May 2011 06:51:16 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-26_17-mile-drive/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-26_17-mile-drive/</guid>
       <description>Auf der Monterey Peninsula (Halbinsel) gibt es eine schöne Aussichtsstrecke. Diese haben wir mitgenommen, auch wenn dadurch unser Zeitpolster für eine Ankunft in SF bei Tageslicht aufgebraucht war. Es gibt auch ein kleines Video von einer Kristin, die sich wahnsinnig über Sand und sein Zusammenspiel mit Fußabdrücken freut. Ich poste das mal auf die Gefahr hin, das ich morgen verbauen werde ;)
 There should have been a video here but your browser does not seem to support it.</description>
     </item>
     
     <item>
       <title>Rennstrecke</title>
-      <link>https://maehl.eu/posts/2011-05-26_rennstrecke/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-26_rennstrecke/</link>
       <pubDate>Thu, 26 May 2011 06:43:36 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-26_rennstrecke/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-26_rennstrecke/</guid>
       <description>Eher durchs Zufall haben wir (also ich, Kristin kannte sie nicht) beim durchfahren der Gegend um Monterey die oben im Foto genannte Rennstrecke gefunden. Sollte ja einigen der hier mitlesenden ein Begriff sein.</description>
     </item>
     
     <item>
       <title>Letzter Ausblick</title>
-      <link>https://maehl.eu/posts/2011-05-26_letzter-ausblick/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-26_letzter-ausblick/</link>
       <pubDate>Thu, 26 May 2011 06:40:25 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-26_letzter-ausblick/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-26_letzter-ausblick/</guid>
       <description>Heute morgen von unserem Hotel in Pismo Beach. Definitiv zu empfehlen.
 einfach nur wow!
 Caro - May 26, 2011</description>
@@ -1564,46 +1565,46 @@ Caro - May 26, 2011</description>
     
     <item>
       <title>San Francisco</title>
-      <link>https://maehl.eu/posts/2011-05-26_san-francisco/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-26_san-francisco/</link>
       <pubDate>Thu, 26 May 2011 06:15:29 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-26_san-francisco/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-26_san-francisco/</guid>
       <description>Wir sind da, soviel sei gesagt. Wir sind heile angekommen. Das Auto übrigens auch. Der Rest kommt morgen. Hier ist es 23:15. War ein langer aufregender Tag. Ich geh jetzt ins Bett. Guten Morgen Deutschland und gn8.</description>
     </item>
     
     <item>
       <title>Highway 1 is closed</title>
-      <link>https://maehl.eu/posts/2011-05-25_highway-1-is-closed/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-25_highway-1-is-closed/</link>
       <pubDate>Wed, 25 May 2011 20:37:30 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-25_highway-1-is-closed/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-25_highway-1-is-closed/</guid>
       <description>Grml&amp;hellip;und das natürlich kurz vor Big Sur. Naja, ist nur ne Straße ;)</description>
     </item>
     
     <item>
       <title>...am Morgen</title>
-      <link>https://maehl.eu/posts/2011-05-25_am-morgen/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-25_am-morgen/</link>
       <pubDate>Wed, 25 May 2011 16:07:00 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-25_am-morgen/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-25_am-morgen/</guid>
       <description>So sieht das ganze am Morgen aus. Ein bisschen nebelig, aber es scheint wieder ein super sonniger Tag zu werden. Diese Hotel ist, wie ich finde, das schönste bis jetzt. Klar hatte das Bellagio sechs Sterne und war luxuriös, aber dieses hier hat eine andere Form von Luxus die mir ganz besonders zusagt. Fehlt nur noch das wir mit diesen Kränzen begrüßt werden, und das es abends ne Bauchtanzeinlage gibt. Aber das reicht auch schon.</description>
     </item>
     
     <item>
       <title>Zweiter Mietwagen</title>
-      <link>https://maehl.eu/posts/2011-05-25_zweiter-mietwagen/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-25_zweiter-mietwagen/</link>
       <pubDate>Wed, 25 May 2011 15:52:44 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-25_zweiter-mietwagen/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-25_zweiter-mietwagen/</guid>
       <description>Das ist übrigens unser zweiter Mietwagen für die Tour. Mit ihm werden wir hoffentlich nachher San Francisco erreichen. Alex, der ist doch auch fast so wie der den du hast, oder? :)</description>
     </item>
     
     <item>
       <title>Cottage Inn, Pismo Beach</title>
-      <link>https://maehl.eu/posts/2011-05-25_cottage-inn-pismo-beach/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-25_cottage-inn-pismo-beach/</link>
       <pubDate>Wed, 25 May 2011 03:17:41 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-25_cottage-inn-pismo-beach/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-25_cottage-inn-pismo-beach/</guid>
       <description>Da sind wir nun gestrandet. Könnt ihr es auf dem Foto erkennen? Jaha, das ist der Pazifik, den wir von unserem Zimmer aus sehen&amp;hellip;.
 Das ist ja mal ein geiler Ausblick, ich war schon bei dem Mustang und dem Urlaub generell neidisch, aber das toppt das ganze noch. *gmrl* auch will ^^
 Patrick - May 25, 2011</description>
@@ -1611,73 +1612,73 @@ Patrick - May 25, 2011</description>
     
     <item>
       <title>Ein ungebetener Gast</title>
-      <link>https://maehl.eu/posts/2011-05-24_ein-ungebetener-gast/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-24_ein-ungebetener-gast/</link>
       <pubDate>Tue, 24 May 2011 23:17:23 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-24_ein-ungebetener-gast/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-24_ein-ungebetener-gast/</guid>
       <description>Pickt hier auch durchaus den Gästen das Essen vom Teller.</description>
     </item>
     
     <item>
       <title>Ein unfreiwilliges Essen</title>
-      <link>https://maehl.eu/posts/2011-05-24_ein-unfreiwilliges-essen/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-24_ein-unfreiwilliges-essen/</link>
       <pubDate>Tue, 24 May 2011 23:11:57 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-24_ein-unfreiwilliges-essen/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-24_ein-unfreiwilliges-essen/</guid>
       <description>Da fahren wir so die 1 hinauf Richtung Norden, da sehen wir auf der Pazifikseite ne Straße, also ran an den Strand, dachten wir. Ja Pustekuchen, der Strandparkplatz gehört einem Cafe. Und daher gibt es zwei Möglichkeiten: 4 Stunden für $25 oder $20 Mindestverzehr plus $3 fürs Parken. Na, was wählt der Lipper? ;) Die Erdbeeren, der Käsekuchen und die zwei Eistees waren sehr lecker.</description>
     </item>
     
     <item>
       <title>KFC zweiter Versuch</title>
-      <link>https://maehl.eu/posts/2011-05-24_kfc-zweiter-versuch/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-24_kfc-zweiter-versuch/</link>
       <pubDate>Tue, 24 May 2011 23:00:26 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-24_kfc-zweiter-versuch/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-24_kfc-zweiter-versuch/</guid>
       <description>Sorry, aber alles mit Handy tippen ist man manchmal nicht so einfach. Also der Kassierer wusste sofort das wir das was wir alles bestellt haben nicht komplett aufessen werden. Die Menüs bestehen hier aus Crossies zwei Beilagen und noch nem Milchbrötchen. Dafür ist das Getränk extra. Jetzt denkt ihr: und? Ist halt eine Beilage mehr. Ist doch sogar mehr fürs Geld. Ha super. Nur das die Crossies mal eben doppelt so groß hier sind.</description>
     </item>
     
     <item>
       <title>KFC</title>
-      <link>https://maehl.eu/posts/2011-05-24_kfc/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-24_kfc/</link>
       <pubDate>Tue, 24 May 2011 22:48:57 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-24_kfc/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-24_kfc/</guid>
       <description>Diese KFC Menüs in Deutschland reichen mir ja nie. 3 Crossies, Pommes und Cola. Also nehm ich immer gleich 6 Crossies. Das haben wir hier nicht besser gewusst. Jetzt wissen wir auch warum der Kassierer so komisch geschaut hat. Der konnte nicht glauben das wir das schaffen</description>
     </item>
     
     <item>
       <title>Bye bye Hollywood Hills...</title>
-      <link>https://maehl.eu/posts/2011-05-24_bye-bye-hollywood-hills/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-24_bye-bye-hollywood-hills/</link>
       <pubDate>Tue, 24 May 2011 16:48:57 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-24_bye-bye-hollywood-hills/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-24_bye-bye-hollywood-hills/</guid>
       <description>Weiter gehts. Raus aus dem Hotel, und ab in den Bus zur Autovermietung. Erstmal unser letztes Lebenszeichen. Heute Abend wird ja in einem noch unbekannten Motel genächtigt und ob es da WLAN gibt, wissen wir noch nicht. Also nicht erschrecken, falls wir uns erst morgen Abend wieder melden. Dann aus San Francisco. Achja, von Kristin soll ich folgendes ausrichten: Schnip, schnip, schnip ;)</description>
     </item>
     
     <item>
       <title>Kaffee ist gesundheitsschädlich</title>
-      <link>https://maehl.eu/posts/2011-05-24_kaffee-ist-gesundheitsschaedlich/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-24_kaffee-ist-gesundheitsschaedlich/</link>
       <pubDate>Tue, 24 May 2011 04:45:40 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-24_kaffee-ist-gesundheitsschaedlich/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-24_kaffee-ist-gesundheitsschaedlich/</guid>
       <description>Gewusst haben wir es ja schon, aber die Kalifornier haben so eine schöne Art, darauf hinzuweisen.</description>
     </item>
     
     <item>
       <title>Sie kochen auch nur mit Wasser</title>
-      <link>https://maehl.eu/posts/2011-05-24_sie-kochen-auch-nur-mit-wasser/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-24_sie-kochen-auch-nur-mit-wasser/</link>
       <pubDate>Tue, 24 May 2011 04:38:18 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-24_sie-kochen-auch-nur-mit-wasser/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-24_sie-kochen-auch-nur-mit-wasser/</guid>
       <description>Und nutzen noch Windows XP ;)</description>
     </item>
     
     <item>
       <title>T-Shirt</title>
-      <link>https://maehl.eu/posts/2011-05-24_t-shirt/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-24_t-shirt/</link>
       <pubDate>Tue, 24 May 2011 04:30:00 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-24_t-shirt/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-24_t-shirt/</guid>
       <description>Habe mir bei WB ein T-shirt gegönnt. Ich poste mal ein Foto, ohne zu sagen, zu welcher Serie/welchem Film es gehört. Auf jeden Fall mussten Kristin und ich sehr lachen. Na? Und zumindest Daniel müsste es wissen ;)
 The Big Bang Theory !!
 Der Lodda - May 24, 2011
@@ -1688,46 +1689,46 @@ Das ist ja mal genial, hab das erst heut morgen gesehen, wo Lennert nachts arbei
     
     <item>
       <title>Kristin zum Thema Essen</title>
-      <link>https://maehl.eu/posts/2011-05-24_kristin-zum-thema-essen/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-24_kristin-zum-thema-essen/</link>
       <pubDate>Tue, 24 May 2011 04:23:15 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-24_kristin-zum-thema-essen/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-24_kristin-zum-thema-essen/</guid>
       <description>Nachdem meiner Lieben schon fast das Essen hier zum Halse raushing (vor allem das Frühstück: Eier hier, Eier da) hat dann ca. 1 Minute später der Lemon Cake von Starbucks ihre Meinung geändert. Mittlerweile haben wir sogar festgestellt, das wir Deutschen Pommes-Verrückter als die Amis sind. Hier gibt es viel mehr Auswahl an Alternativen als in DE, wo man ja mittlerweile die knusprig gebräunten Kartoffelstäbchen zu allem dazubekommt.</description>
     </item>
     
     <item>
       <title>Bus und Bahn in LA</title>
-      <link>https://maehl.eu/posts/2011-05-24_bus-und-bahn-in-la/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-24_bus-und-bahn-in-la/</link>
       <pubDate>Tue, 24 May 2011 04:17:29 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-24_bus-und-bahn-in-la/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-24_bus-und-bahn-in-la/</guid>
       <description>Die öffentlichen Verkehrsmittel in LA sind ganz in Ordnung, wenn man erstmal nen Durchblick hat ;) Weil erstmal versteht man die Haltestellen nicht: Die schreiben nämlich nicht drauf, wann der nächste Bus kommt, sondern nur, zu welchen Tageszeiten welche Frequenzen gefahren werden. Da steht also z.b. &amp;ldquo;From 6pm on every 45 to 60 minutes&amp;rdquo;. Ob also der Bus gerade weg ist, oder gleich ankommt, kann man nur anhand der Anzahl der wartenden Gäste an der Haltestelle erahnen.</description>
     </item>
     
     <item>
       <title>Santa Monica</title>
-      <link>https://maehl.eu/posts/2011-05-24_santa-monica/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-24_santa-monica/</link>
       <pubDate>Tue, 24 May 2011 04:02:07 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-24_santa-monica/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-24_santa-monica/</guid>
       <description>Unser letztes Ziel in LA war der Strand von Santa Monica. Ich lasse hier mal die Bilder sprechen. Wobei es zum Wetter eins zu sagen gibt: Die Sonne scheint zwar ab Mittag durchgehend, aber der Wind ist schon mehr als ein laues Lüftchen und veranlasste Kristin zum Tragen Ihrer Jacke.</description>
     </item>
     
     <item>
       <title>Warner Bros. Studios</title>
-      <link>https://maehl.eu/posts/2011-05-23_warner-bros-studios/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-23_warner-bros-studios/</link>
       <pubDate>Mon, 23 May 2011 22:34:45 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-23_warner-bros-studios/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-23_warner-bros-studios/</guid>
       <description>Die zweite Studiotour führte uns zu WB. Dort gibt es nur eine Tour, aber die hat es in sich. Wir haben das Zuhause der Gilmore Girls, die Bat-Mobile, u.v.m. gesehen. Am Ende konnten wir noch den Originalset des Central Perk ansehen und uns auf Die Couch setzen. Auch haben wir einen wirklich genutzten Sound Stage von Innen gesehen. Das war wirklich beeindruckend. Jetzt geht es weiter zum Strand.</description>
     </item>
     
     <item>
       <title>Universal Studios Hollywood</title>
-      <link>https://maehl.eu/posts/2011-05-23_universal-studios-hollywood/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-23_universal-studios-hollywood/</link>
       <pubDate>Mon, 23 May 2011 16:30:35 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-23_universal-studios-hollywood/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-23_universal-studios-hollywood/</guid>
       <description>Unseren ersten vollen Tag in LA haben wir gester in den Universal Studios verbracht. Die Universal Studios sind teils Vergnügungspark, teils Studio-Tour. Bei der Tour sind wir dann auch durch Sets von dem weißen Hai, Desperate Housewives, Psycho und noch vielen weiteren durchgefahren.
 Interessant ist, das außer Paramount Pictures alle anderen gro??en Filmstudios nicht mehr in Hollywood selbst liegen, sondern sich wegen der Kosten um Hollywood herum platziert haben.
 Der Vergnügungspark selbst hatte einige coole Attraktionen zu bieten, aber das beste war King Kong 360 3D.</description>
@@ -1735,64 +1736,64 @@ Der Vergnügungspark selbst hatte einige coole Attraktionen zu bieten, aber das 
     
     <item>
       <title>Wolfgang Puck</title>
-      <link>https://maehl.eu/posts/2011-05-23_wolfgang-puck/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-23_wolfgang-puck/</link>
       <pubDate>Mon, 23 May 2011 04:17:06 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-23_wolfgang-puck/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-23_wolfgang-puck/</guid>
       <description>Nach dem doch recht anstrengendem Tag in den Universal Studios haben wir Wolfgang Puck seine Pepperoni und die Vier-Käse mit Pesto Pizza verzehrt und die beiden für sehr sehr lecker empfunden.</description>
     </item>
     
     <item>
       <title>Frühstück im IHOP</title>
-      <link>https://maehl.eu/posts/2011-05-23_fruehstueck-im-ihop/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-23_fruehstueck-im-ihop/</link>
       <pubDate>Mon, 23 May 2011 04:10:27 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-23_fruehstueck-im-ihop/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-23_fruehstueck-im-ihop/</guid>
       <description>Dadurch das wir gestern unsere Zwischenmahlzeit im IHOP zu uns genommen haben, konnten wir heute 20% beim Frühstück sparen. Und jetzt kommt das Beste: weil wir heute dort gefrühstückt haben bekommen wir wieder 20% aufs Essen am nächsten Tag. Also ist das Abendessen für morgen schon klar :)</description>
     </item>
     
     <item>
       <title>Jim Henderson Company</title>
-      <link>https://maehl.eu/posts/2011-05-22_jim-henderson-company/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-22_jim-henderson-company/</link>
       <pubDate>Sun, 22 May 2011 04:06:21 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-22_jim-henderson-company/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-22_jim-henderson-company/</guid>
       <description>Nicht viel zu sagen, aber Kermit auf dem Dach ist schon stylisch :)</description>
     </item>
     
     <item>
       <title>Etwas mulmig war mir schon...</title>
-      <link>https://maehl.eu/posts/2011-05-22_etwas-mulmig-war-mir-schon/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-22_etwas-mulmig-war-mir-schon/</link>
       <pubDate>Sun, 22 May 2011 04:05:04 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-22_etwas-mulmig-war-mir-schon/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-22_etwas-mulmig-war-mir-schon/</guid>
       <description>&amp;hellip;als ich das hier heute morgen in San Diego gesehen habe. Die nehmen das hier wohl nicht so genau mit Wartungsintervallen von Fahrstühlen :o</description>
     </item>
     
     <item>
       <title>Bitte weitergehen, hier gibt es nichts zu sehen, äh essen</title>
-      <link>https://maehl.eu/posts/2011-05-22_bitte-weitergehen-hier-gibt-es-nichts/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-22_bitte-weitergehen-hier-gibt-es-nichts/</link>
       <pubDate>Sun, 22 May 2011 04:01:44 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-22_bitte-weitergehen-hier-gibt-es-nichts/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-22_bitte-weitergehen-hier-gibt-es-nichts/</guid>
       <description>Damit man McD in den Staaten nicht zu sehr nervt, hängt dieses Schild dort. Macht aber nichts, ich finde das Deutsche McD eh besser.Vor allem die bisherigen McCafe&amp;rsquo;s sind nicht mehr als eine weitere Produkttafel. Keine Spur von den schönen Sitzecken wie in Deutschland. Dafür sind (natürlich) die Becher größer.</description>
     </item>
     
     <item>
       <title>Walk of Fame</title>
-      <link>https://maehl.eu/posts/2011-05-22_walk-of-fame/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-22_walk-of-fame/</link>
       <pubDate>Sun, 22 May 2011 03:58:20 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-22_walk-of-fame/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-22_walk-of-fame/</guid>
       <description>Wie es sich gehört, war unser erstes Ziel in Hollywood das Man Chinese Theatre und der Walk of Fame. Nur soviel: Da hat fast jeder, der in den USA bekannt ist, nen Stern. Nur die Hand- und Fußabdrücke sind seltener und machen auch mehr her.</description>
     </item>
     
     <item>
       <title>Zwischenmahlzeit</title>
-      <link>https://maehl.eu/posts/2011-05-22_zwischenmahlzeit/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-22_zwischenmahlzeit/</link>
       <pubDate>Sun, 22 May 2011 02:28:31 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-22_zwischenmahlzeit/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-22_zwischenmahlzeit/</guid>
       <description>Im IHOP (International House Of Pancakes), Abendessen gab es wie üblich bei McDonalds :)
 Ich bin ganz neidisch, Mama
 Mama - May 22, 2011
@@ -1802,83 +1803,83 @@ Julia - May 22, 2011</description>
     
     <item>
       <title>Arrived at Hollywood</title>
-      <link>https://maehl.eu/posts/2011-05-21_arrived-at-hollywood/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-21_arrived-at-hollywood/</link>
       <pubDate>Sat, 21 May 2011 20:57:11 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-21_arrived-at-hollywood/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-21_arrived-at-hollywood/</guid>
       <description>Wir sind da und haben auch wieder WLAN, echt super</description>
     </item>
     
     <item>
       <title>Letzte Eindrücke von SD</title>
-      <link>https://maehl.eu/posts/2011-05-21_letzte-eindruecke-von-sd/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-21_letzte-eindruecke-von-sd/</link>
       <pubDate>Sat, 21 May 2011 15:30:21 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-21_letzte-eindruecke-von-sd/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-21_letzte-eindruecke-von-sd/</guid>
       <description>Es ist schon wieder soweit. Die Abreise steht bevor. Schnell noch frühstücken, Koffer packen, danach noch kurz nach Downtown das Horton Plaza bestaunen und dann ab auf die Interstate 5 Richtung Norden. Wir melden uns sobald wir wieder WLAN haben. Bye</description>
     </item>
     
     <item>
       <title>Kristin, das Zebra</title>
-      <link>https://maehl.eu/posts/2011-05-21_kristin-das-zebra/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-21_kristin-das-zebra/</link>
       <pubDate>Sat, 21 May 2011 05:26:26 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-21_kristin-das-zebra/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-21_kristin-das-zebra/</guid>
       <description>Die Sonnenverträglichkeit von Kristin und mir verhält sich ja leider umgekehrt zu unserer Sonnenliebe. Ich finde ja Temperaturen über 20 Grad zu warm, Sie findet alles darunter zu kalt. Leider sieht Kristins Haut das aber ganz anders, und so erinnert mich ihr Anblick heute Abend schon ein wenig an Pommes Rot-Weiß. Bei mir hingegen ist alles ok ausser einer leicht roten Nase. Trotzdem haben wir daraus gelernt: Nur weil der Wind hier die Temperaturen niedrig hält, brennt die Sonne doch ganz schön.</description>
     </item>
     
     <item>
       <title>Gaslamp Quarter</title>
-      <link>https://maehl.eu/posts/2011-05-21_gaslamp-quarter/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-21_gaslamp-quarter/</link>
       <pubDate>Sat, 21 May 2011 05:09:11 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-21_gaslamp-quarter/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-21_gaslamp-quarter/</guid>
       <description>Lt. Reiseführer der Mittelpunkt von San Diego. Hier haben wir gegessen und uns ein wenig umgesehen. Das Viertel hat seinen Namen von den alten, unter Denkmalschutz stehenden Gaslaternen die die Straßen beleuchten. Hier reihen sich dann auch Restaurants, Clubs und Geschäfte eng aneinander. Geht man an einem Restaurant vorbei, fragen die Seater (Platzzuweiser) auch gleich, ob man nicht hier sein Dinner zu sich nehmen will.
 Sportunkundig, wie wir nunmal sind, haben wir uns noch über den hohen Parkplatzpreis von $17 gewundert.</description>
     </item>
     
     <item>
       <title>Coronado</title>
-      <link>https://maehl.eu/posts/2011-05-21_coronado/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-21_coronado/</link>
       <pubDate>Sat, 21 May 2011 04:57:29 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-21_coronado/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-21_coronado/</guid>
       <description>Nach der Midway sind wir mit dem Auto rüber zur Coronado Island gefahren. Dort haben wir das berühmte gleichnamige Hotel gesehen. Leider fiel der eigentlich geplante Strandbesuch aus, weil uns der Hunger plagte.</description>
     </item>
     
     <item>
       <title>Midway Museum</title>
-      <link>https://maehl.eu/posts/2011-05-21_midway-museum/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-21_midway-museum/</link>
       <pubDate>Sat, 21 May 2011 04:47:53 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-21_midway-museum/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-21_midway-museum/</guid>
       <description>Zweiter Stop war dann das 2004 eröffnete Midway Museum. Hierbei handelt es sich um einen richtigen Flugzeugträger, der nach seiner Außerdienststellung zu einem Museum umfunktioniert wurde. Wir sind gute drei Stunden in dem riesigen Schiff herumgelaufen. Am Ende gab es dann noch eine halbstündige Führung durch die Pri Fly (Primary flight control), so den Tower sowie die Brücke. Hierbei war erstaunlich, wie klein die Brücke ist. Hierzu folgen dann ein paar Fotos, wenn wir wieder da sind.</description>
     </item>
     
     <item>
       <title>San Diego Zoo</title>
-      <link>https://maehl.eu/posts/2011-05-21_san-diego-zoo/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-21_san-diego-zoo/</link>
       <pubDate>Sat, 21 May 2011 04:39:34 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-21_san-diego-zoo/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-21_san-diego-zoo/</guid>
       <description>Unser erster Stop heute war der San Diego Zoo. Da hat Kristin ihre Erdmännchen zu sehen bekommen. Der Zoo ist aber auch sonst ne Wucht. Sehr viel Grün. Eine Busführung und die Skyfari (Gondelbahn über den Zoo hinweg) haben wir auch mitgenommen. Angst hat uns aber das fotografierte Schild gemacht&amp;hellip;wo rennt die Schlange bloß rum? ;)</description>
     </item>
     
     <item>
       <title>Abendessen in Downtown</title>
-      <link>https://maehl.eu/posts/2011-05-21_abendessen-in-downtown/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-21_abendessen-in-downtown/</link>
       <pubDate>Sat, 21 May 2011 04:37:20 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-21_abendessen-in-downtown/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-21_abendessen-in-downtown/</guid>
       <description>Die Pommes waren hier eine Vorspeise. Hätte ich gewusst wie viele es sind, hätte ich kein Hauptgericht (Burger) bestellt.</description>
     </item>
     
     <item>
       <title>Schnip, schnip, schnip</title>
-      <link>https://maehl.eu/posts/2011-05-20_schnip-schnip-schnip/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-20_schnip-schnip-schnip/</link>
       <pubDate>Fri, 20 May 2011 15:59:37 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-20_schnip-schnip-schnip/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-20_schnip-schnip-schnip/</guid>
       <description>Katrin, wenn du das liest: 2x auf der Fahrt&amp;hellip;.
 hey schnecke, schnippe in der praxis öfters, aber macht mit :-(
 K. Lieder - May 20, 2011</description>
@@ -1886,111 +1887,111 @@ K. Lieder - May 20, 2011</description>
     
     <item>
       <title>Navigator Dominik</title>
-      <link>https://maehl.eu/posts/2011-05-20_navigator-dominik/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-20_navigator-dominik/</link>
       <pubDate>Fri, 20 May 2011 15:50:29 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-20_navigator-dominik/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-20_navigator-dominik/</guid>
       <description>So, da bin auch ich wieder. War gestern zu müde um noch etwas sinnvolles zu texten. Hier ist Freitag morgen um 8:43. Ihr habt schon späten Nachmittag. Frisch geduscht aber noch nüchtern erzähl ich mal meine Version. Also, Dominik hat ja schon fast alles erzählt. Wir haben den Mustang als Mietwagen bekommen, waren am Hoover Damm und sind letztendlich auch in unserem Hotel in San Diego eingetroffen. Zu dem Mustang: ich dachte erst, muss das sein?</description>
     </item>
     
     <item>
       <title>Zimmer in San Diego</title>
-      <link>https://maehl.eu/posts/2011-05-20_zimmer-in-san-diego/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-20_zimmer-in-san-diego/</link>
       <pubDate>Fri, 20 May 2011 04:10:31 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-20_zimmer-in-san-diego/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-20_zimmer-in-san-diego/</guid>
       <description>Wir fahren schön mit Offline-Navigation zum Hotel. Aber da, wo das Holiday Inn Express sein soll, ist es nicht. Hat sich einfach umbenannt in Mission Inn. War nicht weiter schlimm, hat uns aber kurz geschockt. Wissen tat das aber weder das Navi, noch der Reiseveranstalter (lt. Voucher). Nur nach Betreten des freien WLAN-Netzes sagte Google mir fast schelmisch: Im Mission Inn einchecken?
 Das Bett ist dann aber wohl King Size, oder?</description>
     </item>
     
     <item>
       <title>Hoover Dam</title>
-      <link>https://maehl.eu/posts/2011-05-20_hoover-dam/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-20_hoover-dam/</link>
       <pubDate>Fri, 20 May 2011 03:49:43 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-20_hoover-dam/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-20_hoover-dam/</guid>
       <description>Da der Hoover Dam ja nur 30 Meilen von Las Vegas entfernt liegt, haben wir noch einen kurzen Abstecher dorthin gewagt. Ausserdem konnten wir so auch noch Arizona zur Liste der besuchten Staaten hinzufügen. Hübsch anzusehen ist vor allem die steinernde Maximalbefüllungslinie ;)</description>
     </item>
     
     <item>
       <title>Burger King Werbung</title>
-      <link>https://maehl.eu/posts/2011-05-20_burger-king-werbung/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-20_burger-king-werbung/</link>
       <pubDate>Fri, 20 May 2011 03:43:16 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-20_burger-king-werbung/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-20_burger-king-werbung/</guid>
       <description>Gesehen in einem kalifornischen Burger King :)</description>
     </item>
     
     <item>
       <title>Mietwagen</title>
-      <link>https://maehl.eu/posts/2011-05-20_mietwagen/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-20_mietwagen/</link>
       <pubDate>Fri, 20 May 2011 03:40:46 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-20_mietwagen/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-20_mietwagen/</guid>
       <description>Jaaaaha, also dann zum Mietwagen. Wir hatten für die drei Tage eigentlich einen Yaris oder ähnlich. Uns wurde dann aber gesagt, das nen 4-Zylinder ja wohl nicht das beste für den geplanten Trip wäre (Amerikaner halt) und sie einen 6-Zylinder für $20 mehr hätten. Das war dann ein quietschroter Ford Mustang! Wir haben zugeschlagen und das Ergebnis sieht so aus. Scheint allen zu gefallen ;)
 Genial! Wenn das Land der unbegrenzten Möglichkeiten jetzt noch Highways ohne Tempolimit hätte&amp;hellip;</description>
     </item>
     
     <item>
       <title>Lebenszeichen</title>
-      <link>https://maehl.eu/posts/2011-05-20_lebenszeichen/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-20_lebenszeichen/</link>
       <pubDate>Fri, 20 May 2011 03:20:24 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-20_lebenszeichen/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-20_lebenszeichen/</guid>
       <description>Sind unbeschadet in San Diego angekommen. Details zu dem, was heute so war, folgen in Kürze ;)</description>
     </item>
     
     <item>
       <title>Bye Las Vegas</title>
-      <link>https://maehl.eu/posts/2011-05-19_bye-las-vegas/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-19_bye-las-vegas/</link>
       <pubDate>Thu, 19 May 2011 16:42:42 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-19_bye-las-vegas/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-19_bye-las-vegas/</guid>
       <description>Nach 2x zum Buffet gehen und ein paar Dollar im Casino weniger, packen wir unsere Taschen und sagen bye Las Vegas - San Diego wir kommen :)</description>
     </item>
     
     <item>
       <title>Wetter und wir</title>
-      <link>https://maehl.eu/posts/2011-05-19_wetter-und-wir/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-19_wetter-und-wir/</link>
       <pubDate>Thu, 19 May 2011 14:27:55 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-19_wetter-und-wir/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-19_wetter-und-wir/</guid>
       <description>Klar, wir fahren ja heute weiter nach San Diego.Da hat sich das Wetter in LV überlegt: Werde ich doch mal spontan super. grml</description>
     </item>
     
     <item>
       <title>Letztes Essen in Vegas</title>
-      <link>https://maehl.eu/posts/2011-05-19_letztes-essen-in-vegas/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-19_letztes-essen-in-vegas/</link>
       <pubDate>Thu, 19 May 2011 14:22:11 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-19_letztes-essen-in-vegas/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-19_letztes-essen-in-vegas/</guid>
       <description>Es ist 7:22: ihr habt bald schon wieder Feierabend. Für uns beginnt der Donnerstag mal gerade. Zum Frühstück gibt es gleich erneut Buffet. Zum Einen weil es im Verhältnis zum auswärts frühstücken gehen doch günstig ist für seine $14,99. Zum Anderen kann ich mir die Plautze wieder so voll hauen, dass es für den ganzen Tag ausreicht. Das ist wichtig, weil wir heute eine lange Fahrt vor uns haben. Bye</description>
     </item>
     
     <item>
       <title>Letzte Nacht</title>
-      <link>https://maehl.eu/posts/2011-05-19_letzte-nacht/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-19_letzte-nacht/</link>
       <pubDate>Thu, 19 May 2011 04:52:41 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-19_letzte-nacht/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-19_letzte-nacht/</guid>
       <description>So, die letzte Nacht steht kurz bevor. Es ist kurz vor zehn. Ihr steht bald auf, wir hauen uns hin. Ich bedanke mich jetzt schon mal beim Bellagio für die kommende Nacht. Hier schläft man auch in normal großen Betten wie ein König. Die sind echt der Hammer. Da möchte ich eigentlich gar nicht mehr raus. Zudem bedanke ich mich bei unserem Zimmermädchen, die munter alle Gifts wieder auffüllt, sodass wir locker über den Urlaub kommen :) das gibt morgen ein extra Trinkgeld.</description>
     </item>
     
     <item>
       <title>Trinkgeld</title>
-      <link>https://maehl.eu/posts/2011-05-19_trinkgeld/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-19_trinkgeld/</link>
       <pubDate>Thu, 19 May 2011 02:09:01 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-19_trinkgeld/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-19_trinkgeld/</guid>
       <description>Sollte man in den USA ja nicht so handhaben, wie in Deutschland, wo man meistens nur aufrundet. Hier ist es für viele eine wichtige Einnahmequelle. Was ich aber echt sehr gut finde, ist die Art, wie man mit der Kreditkarte Trinkgeld gibt. Man bekommt den Beleg, auf dem die eigentlich zu berechnende Summe steht. Diesen muss man wie hier auch unterschreiben. Der Clou an der Sache: Auf dem Beleg sind unter der Summe zwei Felder.</description>
     </item>
     
     <item>
       <title>Dinnerbuffet im Bellagio</title>
-      <link>https://maehl.eu/posts/2011-05-19_dinnerbuffet-im-bellagio/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-19_dinnerbuffet-im-bellagio/</link>
       <pubDate>Thu, 19 May 2011 01:52:02 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-19_dinnerbuffet-im-bellagio/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-19_dinnerbuffet-im-bellagio/</guid>
       <description>Ist überwältigend. Gute Entscheidung, das am letzten Abend nochmal zu machen, gehört ja irgendwie dazu. Jetzt sind wir pappsatt. $ 29.99 p.P. ist aber auch nen Wort.Generell gilt hier: Essen ist entweder teuer oder noch teurer, nur ganz selten preiswert. Und zum Thema Trinkgeld schreibe ich getrennt hiervon nochmal. Jetzt genießt erstmal due Bilder und denkt dran: Wir habens gegessen ;)
 Ich hab Hunger&amp;hellip;
 Daniel - May 19, 2011</description>
@@ -1998,145 +1999,145 @@ Daniel - May 19, 2011</description>
     
     <item>
       <title>Wer nicht kommt zur rechten Zeit...</title>
-      <link>https://maehl.eu/posts/2011-05-19_wer-nicht-kommt-zur-rechten-zeit/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-19_wer-nicht-kommt-zur-rechten-zeit/</link>
       <pubDate>Thu, 19 May 2011 01:49:40 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-19_wer-nicht-kommt-zur-rechten-zeit/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-19_wer-nicht-kommt-zur-rechten-zeit/</guid>
       <description>&amp;hellip;der wartet. Wir haben den Tip aus dem Netz befolgt, nicht zu den Stoßzeiten zum Buffet zu gehen&amp;hellip;die hier nicht ;)</description>
     </item>
     
     <item>
       <title>Schlange vorm Apple-Store</title>
-      <link>https://maehl.eu/posts/2011-05-18_schlange-vorm-apple-store/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-18_schlange-vorm-apple-store/</link>
       <pubDate>Wed, 18 May 2011 23:35:55 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-18_schlange-vorm-apple-store/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-18_schlange-vorm-apple-store/</guid>
       <description>Vorm Apple-Store in LV gibt es eine Schlange.Reingelassen werden nur soviele Kunden, das auch immer ein Berater für sie da ist&amp;hellip;krank/cool, aber auf jeden Fall typisch amerikanisch.</description>
     </item>
     
     <item>
       <title>Glück mit dem Wetter...Nö</title>
-      <link>https://maehl.eu/posts/2011-05-18_glueck-mit-dem-wetter/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-18_glueck-mit-dem-wetter/</link>
       <pubDate>Wed, 18 May 2011 23:31:34 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-18_glueck-mit-dem-wetter/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-18_glueck-mit-dem-wetter/</guid>
       <description>Las Vegas ist eigentlich nicht für seinen Regen bekannt, aber Wir haben das Glück, dieses seltene Ereignis miterleben zu dürfen ;)</description>
     </item>
     
     <item>
       <title>Las Vegas leergeguckt</title>
-      <link>https://maehl.eu/posts/2011-05-18_las-vegas-leergeguckt/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-18_las-vegas-leergeguckt/</link>
       <pubDate>Wed, 18 May 2011 21:30:29 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-18_las-vegas-leergeguckt/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-18_las-vegas-leergeguckt/</guid>
       <description>So, bei uns ist es jetzt gleich 14:30 Uhr. Ihr geht bald ins Bett (oder seid es schon), ich für meinen Teil auch noch für einen Moment. Diese Stadt zu Fuß zu erkunden ist nicht schön. Abgesehen davon, das wir eigentlich alles spannende hier gestern schon gesehen haben. Mehr als zwei Tage braucht kein Mensch hier Urlaub machen. Hier ausserhalb des Hotels Frühstück zu bekommen ist auch ein Krampf. Überall superlange Schlangen.</description>
     </item>
     
     <item>
       <title>Pro Bellagio</title>
-      <link>https://maehl.eu/posts/2011-05-18_pro-bellagio/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-18_pro-bellagio/</link>
       <pubDate>Wed, 18 May 2011 04:24:21 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-18_pro-bellagio/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-18_pro-bellagio/</guid>
       <description>Ich war ja ursprünglich kein Fan der Hotelwahl, da mir das Bellagio zu &amp;ldquo;nostalgisch&amp;rdquo; rüberkam, aber nach der Begutachtung von ein paar Hotels gefällt mir hier, das einem das Spielen und Shoppen nicht aufgedrängt wird. Das Bellagio ist einfach nur ein sehr großes Hotel. Und das ist in LV nen Vorteil.</description>
     </item>
     
     <item>
       <title>Fix und fertig</title>
-      <link>https://maehl.eu/posts/2011-05-18_fix-und-fertig/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-18_fix-und-fertig/</link>
       <pubDate>Wed, 18 May 2011 04:17:04 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-18_fix-und-fertig/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-18_fix-und-fertig/</guid>
       <description>Es ist kurz nach neun Uhr und der erste Tag in Las Vegas ist zuende. Erst sind wir den Strip vom Bellagio bis zum Luxor runter, dann mit der Monorail hoch bis zum Stratosphere Tower, und von dort wieder zurück. Dabei natürlich alle auf dem Weg liegenden Hotels von Innen begutachtet. Die Show am TI haben wir leider verpasst, wird aber morgen nachgeholt.</description>
     </item>
     
     <item>
       <title>Satt</title>
-      <link>https://maehl.eu/posts/2011-05-17_satt/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-17_satt/</link>
       <pubDate>Tue, 17 May 2011 17:21:47 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-17_satt/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-17_satt/</guid>
       <description>Ok, das Essen war so gut: mir stehen schon die Augäpfel hervor, so satt bin ich. Ausserdem hab ich mein Eier-Pensum für diese Woche schon erreicht. Wir spannen noch etwas aus. Lassen den Bauch wieder etwas schrumpfen und dann gehts los. Las Vegas, wir kommen!</description>
     </item>
     
     <item>
       <title>Zimmerausblick im Bellagio</title>
-      <link>https://maehl.eu/posts/2011-05-17_zimmerausblick-im-bellagio/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-17_zimmerausblick-im-bellagio/</link>
       <pubDate>Tue, 17 May 2011 15:47:59 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-17_zimmerausblick-im-bellagio/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-17_zimmerausblick-im-bellagio/</guid>
       <description>Nicht der Strip übrigens ;)</description>
     </item>
     
     <item>
       <title>Im Namen der Sicherheit</title>
-      <link>https://maehl.eu/posts/2011-05-17_im-namen-der-sicherheit/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-17_im-namen-der-sicherheit/</link>
       <pubDate>Tue, 17 May 2011 15:45:15 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-17_im-namen-der-sicherheit/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-17_im-namen-der-sicherheit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erstes Frühstück</title>
-      <link>https://maehl.eu/posts/2011-05-17_erstes-fruehstueck/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-17_erstes-fruehstueck/</link>
       <pubDate>Tue, 17 May 2011 15:28:02 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-17_erstes-fruehstueck/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-17_erstes-fruehstueck/</guid>
       <description>Nun geht es gleich erst mal ans Buffet. $15,95 fürs breakfast, da kann man nicht meckern. Mal sehen was Sie dafür zu bieten haben&amp;hellip;</description>
     </item>
     
     <item>
       <title>P.S.</title>
-      <link>https://maehl.eu/posts/2011-05-17_ps/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-17_ps/</link>
       <pubDate>Tue, 17 May 2011 15:20:21 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-17_ps/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-17_ps/</guid>
       <description>Da wir mit einem Einzelbett vollauf zufrieden sind ist ja noch eins frei. Bewerbungen hierfür sind bei Dominik oder mir in schriftlicher Form einzureichen.</description>
     </item>
     
     <item>
       <title>King Size Bed</title>
-      <link>https://maehl.eu/posts/2011-05-17_king-size-bed/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-17_king-size-bed/</link>
       <pubDate>Tue, 17 May 2011 15:16:08 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-17_king-size-bed/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-17_king-size-bed/</guid>
       <description>Ein King Size Bed sei nur noch in Raucherzimmern verfügbar. sagen wir: No Problem! Wir nehmen dann halt ein Nichtraucherzimmer mit allerdings zwei Einzelbetten. Dürfen uns täglich melden und fragen ob ein Zimmer mit einem King Size Bed frei geworden ist. Gut, so machen wir das. Wir gehen auf unser Zimmer und staunen nicht schlecht. Die Einzelbetten hier sind so groß wie in Deutschland ein King Size Bett :) Alles gut und wir bleiben doch hier.</description>
     </item>
     
     <item>
       <title>Nicht Wurf sondern erste Nacht ;)</title>
-      <link>https://maehl.eu/posts/2011-05-17_nicht-wurf-sondern-erste-nacht/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-17_nicht-wurf-sondern-erste-nacht/</link>
       <pubDate>Tue, 17 May 2011 14:54:54 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-17_nicht-wurf-sondern-erste-nacht/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-17_nicht-wurf-sondern-erste-nacht/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erste Nacht in Las Vegas</title>
-      <link>https://maehl.eu/posts/2011-05-17_erste-nacht-in-las-vegas/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-17_erste-nacht-in-las-vegas/</link>
       <pubDate>Tue, 17 May 2011 14:51:49 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-17_erste-nacht-in-las-vegas/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-17_erste-nacht-in-las-vegas/</guid>
       <description>Haben Wurf hinter uns.Der Schlaf war lang und sehr gut.Fotos folgen nach dem Frühstück ;) Das WLAN hier im Hotel ist übrigens Complimentary&amp;hellip;umsonst.</description>
     </item>
     
     <item>
       <title>Ankunft in Atlanta #2</title>
-      <link>https://maehl.eu/posts/2011-05-17_ankunft-in-atlanta-2/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-17_ankunft-in-atlanta-2/</link>
       <pubDate>Tue, 17 May 2011 14:49:47 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-17_ankunft-in-atlanta-2/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-17_ankunft-in-atlanta-2/</guid>
       <description>Ja, Einreise war ja mal einfach. Passkontrolle, Zoll, Sicherheitscheck und Gepäck neu aufgeben = 15 Minuten.Jetzt warten wir auf den Anschlussflug.Schade das der Flughafen von Atlanta ausser Größe nicht viel zu bieten hat.</description>
     </item>
     
     <item>
       <title>Ankunft in Atlanta</title>
-      <link>https://maehl.eu/posts/2011-05-16_ankunft-in-atlanta/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-16_ankunft-in-atlanta/</link>
       <pubDate>Mon, 16 May 2011 18:39:34 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-16_ankunft-in-atlanta/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-16_ankunft-in-atlanta/</guid>
       <description>Ja wir sind an unserem Einreiseflughafen angekommen.Der Flughafen von Atlanta hat aber leider nicht viel zu bieten, ausser eine riesige Anzahl an Gates. Passkontrolle,Zoll,Sicherheitscheck,Gepäck abholen,Gepäck wieder aufgeben = 15 Minuten.Und freundliche Gesichter überall,also: Erstkontakt Note 1
 Super das ihr gut angekommen seit!Wir hatten auch noch nen schönen Tag!
 Anni - May 16, 2011</description>
@@ -2144,55 +2145,64 @@ Anni - May 16, 2011</description>
     
     <item>
       <title>Prioritäten</title>
-      <link>https://maehl.eu/posts/2011-05-16_prioritaeten/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-16_prioritaeten/</link>
       <pubDate>Mon, 16 May 2011 05:58:40 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-16_prioritaeten/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-16_prioritaeten/</guid>
       <description>&amp;hellip;aber keine Seife mehr. Perfekt.</description>
     </item>
     
     <item>
       <title>Now goes it loose!</title>
-      <link>https://maehl.eu/posts/2011-05-16_now-goes-it-loose/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-16_now-goes-it-loose/</link>
       <pubDate>Mon, 16 May 2011 02:22:17 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-16_now-goes-it-loose/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-16_now-goes-it-loose/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Alles da!</title>
-      <link>https://maehl.eu/posts/2011-05-14_alles-da/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-14_alles-da/</link>
       <pubDate>Sat, 14 May 2011 14:38:00 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-14_alles-da/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-14_alles-da/</guid>
       <description>Voucher da, Koffer gepackt. Von mir aus kann es losgehen.</description>
     </item>
     
     <item>
       <title>Ach ja...</title>
-      <link>https://maehl.eu/posts/2011-05-13_ach-ja/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-13_ach-ja/</link>
       <pubDate>Fri, 13 May 2011 16:39:19 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-13_ach-ja/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-13_ach-ja/</guid>
       <description>&amp;hellip;der Voucher ist dann ab morgen um 15:00 Uhr abholbereit. Das nennt man Maßarbeit.</description>
     </item>
     
     <item>
       <title>Ein Voucher fehlt noch</title>
-      <link>https://maehl.eu/posts/2011-05-13_ein-voucher-fehlt-noch/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-13_ein-voucher-fehlt-noch/</link>
       <pubDate>Fri, 13 May 2011 05:46:00 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-13_ein-voucher-fehlt-noch/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-13_ein-voucher-fehlt-noch/</guid>
       <description>Und zwar der für New York&amp;hellip;unser Reisebüro hat aber ja noch bis morgen Zeit. Ich bin gespannt :)</description>
     </item>
     
     <item>
+      <title>Huhu</title>
+      <link>https://blog.maehl.eu/posts/2011-05-11_huhu/</link>
+      <pubDate>Wed, 11 May 2011 17:05:00 +0000</pubDate>
+      
+      <guid>https://blog.maehl.eu/posts/2011-05-11_huhu/</guid>
+      <description>I bin jetzt auch hier ;)</description>
+    </item>
+    
+    <item>
       <title>Unterlagen</title>
-      <link>https://maehl.eu/posts/2011-05-11_unterlagen/</link>
+      <link>https://blog.maehl.eu/posts/2011-05-11_unterlagen/</link>
       <pubDate>Wed, 11 May 2011 16:31:00 +0000</pubDate>
       
-      <guid>https://maehl.eu/posts/2011-05-11_unterlagen/</guid>
+      <guid>https://blog.maehl.eu/posts/2011-05-11_unterlagen/</guid>
       <description>Sind da&amp;hellip; ;)</description>
     </item>
     
