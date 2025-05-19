@@ -13,9 +13,9 @@ Die Einheimischen hier sind ja stolz auf ihr Sourdough-Brot. Bevorzugt verspeise
 ---
 Ui, das sieht aber lecker aus. Würd ich auch gern mal kosten. Ist auf jeden fall mal ne Idee, die man hier auch mal machen könnte. Kommt auf einer Party sicher gut an.
 
-Patrick - <time datetime="2011-05-30 17:39:52">May 30, 2011</time>
+Patrick - 2011-05-30 17:39:52
 
 ---
 apropos chili... bringste eigentlich diese hammer chili nachsachen mit?
 
-Caro - <time datetime="2011-05-31 05:44:20">May 30, 2011</time>
+Caro - 2011-05-31 05:44:20

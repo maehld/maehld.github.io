@@ -15,4 +15,4 @@ Heute morgen von unserem Hotel in Pismo Beach. Definitiv zu empfehlen.
 
 einfach nur wow!
 
-Caro - <time datetime="2011-05-26 07:02:49">May 26, 2011</time>
+Caro - 2011-05-26 07:02:49

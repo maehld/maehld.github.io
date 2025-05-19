@@ -14,4 +14,4 @@ Da sind wir nun gestrandet. Könnt ihr es auf dem Foto erkennen? Jaha, das ist d
 
 Das ist ja mal ein geiler Ausblick, ich war schon bei dem Mustang und dem Urlaub generell neidisch, aber das toppt das ganze noch. \*gmrl\* auch will ^^
 
-Patrick - <time datetime="2011-05-25 16:20:23">May 25, 2011</time>
+Patrick - 2011-05-25 16:20:23

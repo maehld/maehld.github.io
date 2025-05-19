@@ -14,4 +14,4 @@ Ein King Size Bed sei nur noch in Raucherzimmern verfügbar. sagen wir: No Probl
 
 ja sind wohl wirklich nur knapp 1.60, aber reicht ;)
 
-maehld - <time datetime="2011-05-18 04:32:38">May 18, 2011</time>
+maehld - 2011-05-18 04:32:38

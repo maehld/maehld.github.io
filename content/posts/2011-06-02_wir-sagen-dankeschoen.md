@@ -11,4 +11,4 @@ Heute verbringen wir noch ein wenig Zeit in New York bevor es dann von JFK über
 ---
 Ich wünsche euch eine erfolgreiche und angenehme Rückreise und hoffe,dass alles glatt läuft und ihr heil zu Hause ankommt. Bis dann, LG Patrick.
 
-Patrick - <time datetime="2011-06-02 22:33:49">Jun 2, 2011</time>
+Patrick - 2011-06-02 22:33:49

@@ -33,4 +33,4 @@ Ist überwältigend. Gute Entscheidung, das am letzten Abend nochmal zu machen, 
 
 Ich hab Hunger...
 
-Daniel - <time datetime="2011-05-19 06:24:58">May 19, 2011</time>
+Daniel - 2011-05-19 06:24:58

@@ -12,4 +12,4 @@ Katrin, wenn du das liest: 2x auf der Fahrt....
 
 hey schnecke, schnippe in der praxis öfters, aber macht mit :-(
 
-K. Lieder - <time datetime="2011-05-20 19:22:30">May 20, 2011</time>
+K. Lieder - 2011-05-20 19:22:30

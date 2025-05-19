@@ -12,10 +12,10 @@ Die Sonnenverträglichkeit von Kristin und mir verhält sich ja leider umgekehrt
 
 Hallo? Zebras haben laut Grundgesetz kein Recht am eigenen Bild... - exra auf Wiki geschaut :-) -Euch weiterhin einen tollen Urlaub! Viele Grüße Christian
 
-Christian - <time datetime="2011-05-21 07:19:37">May 21, 2011</time>
+Christian - 2011-05-21 07:19:37
 
 ---
 
 wenn du wieder da bist dann gibt es Nudelsalat mit grünen Spargel!!!;-)
 
-Mama - <time datetime="2011-05-21 10:17:54">May 21, 2011</time>
+Mama - 2011-05-21 10:17:54

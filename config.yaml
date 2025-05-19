@@ -6,7 +6,9 @@ theme: "beautifulhugo"
 title: "Das Mähl-Blog"
 description: "Hauptsächlich Urlaub..."
 
-paginate: 20
+pagination:
+  pagerSize: 20
+
 #permalinks:
 #  posts: /:year/:month/:day/:slug/
 

@@ -12,4 +12,4 @@ Ja wir sind an unserem Einreiseflughafen angekommen.Der Flughafen von Atlanta ha
 
 Super das ihr gut angekommen seit!Wir hatten auch noch nen schönen Tag!
 
-Anni - <time datetime="2011-05-16 19:47:08">May 16, 2011</time>
+Anni - 2011-05-16 19:47:08

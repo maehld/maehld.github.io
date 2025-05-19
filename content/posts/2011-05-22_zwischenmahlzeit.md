@@ -14,10 +14,10 @@ Im IHOP (International House Of Pancakes), Abendessen gab es wie üblich bei McD
 
 Ich bin ganz neidisch, Mama
 
-Mama - <time datetime="2011-05-22 11:10:07">May 22, 2011</time>
+Mama - 2011-05-22 11:10:07
 
 ---
 
 Ich will auch ins House of Pancakes...
 
-Julia - <time datetime="2011-05-22 15:06:39">May 22, 2011</time>
+Julia - 2011-05-22 15:06:39

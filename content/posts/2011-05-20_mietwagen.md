@@ -15,4 +15,4 @@ Jaaaaha, also dann zum Mietwagen. Wir hatten für die drei Tage eigentlich einen
 
 Genial! Wenn das Land der unbegrenzten Möglichkeiten jetzt noch Highways ohne Tempolimit hätte...
 
-Daniel - <time datetime="2011-05-20 07:46:07">May 20, 2011</time>
+Daniel - 2011-05-20 07:46:07
